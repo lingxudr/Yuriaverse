@@ -1,0 +1,2 @@
+/* Base entry is intentionally tiny. Actual layers are imported in app/layout.tsx:
+   reset.css → tokens.css → legacy.css → feature-specific CSS files. */

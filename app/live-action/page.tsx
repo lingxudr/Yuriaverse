@@ -1,0 +1,2 @@
+import { CategoryExplorer } from '../../components/CategoryExplorer';
+export default function Page(){return <CategoryExplorer kind="live-action" eyebrow="🎭 Live Action" title="Live Action" description="Temukan drama dan live action. Tab negara hanya menampilkan data jika endpoint Sanka tersedia." bannerClass="hub-live" placeholder="Cari drama atau live action..." tabs={[{id:'all',label:'Semua'},{id:'jepang',label:'Jepang'},{id:'korea',label:'Korea'},{id:'china',label:'China'},{id:'thailand',label:'Thailand'}]}/>}

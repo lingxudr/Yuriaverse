@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://animesu.vercel.app/sitemap.xml

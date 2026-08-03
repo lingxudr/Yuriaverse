@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-label="Animesu logo">
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g transform="translate(30 25)">
+    <circle cx="85" cy="85" r="78" fill="#111827" stroke="#ef4444" stroke-width="8" filter="url(#glow)"/>
+    <circle cx="85" cy="92" r="52" fill="#ffe6ef"/>
+    <path d="M36 78c12-42 44-62 49-62s37 20 49 62c-32-6-54-22-49-40-14 20-29 33-49 40Z" fill="#111827"/>
+    <path d="M45 34l-17-24 35 8" fill="#111827" stroke="#ef4444" stroke-width="4"/>
+    <path d="M125 34l17-24-35 8" fill="#111827" stroke="#ef4444" stroke-width="4"/>
+    <circle cx="66" cy="92" r="9" fill="#b91c1c"/><circle cx="104" cy="92" r="9" fill="#b91c1c"/>
+    <circle cx="69" cy="88" r="3" fill="#fff"/><circle cx="107" cy="88" r="3" fill="#fff"/>
+    <path d="M76 113c8 8 18 8 26 0" fill="none" stroke="#111827" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="48" cy="110" r="7" fill="#fb7185" opacity=".55"/><circle cx="122" cy="110" r="7" fill="#fb7185" opacity=".55"/>
+    <path d="M40 132c22 25 68 25 90 0v32H40z" fill="#111827"/>
+    <path d="M55 145h60" stroke="#ef4444" stroke-width="5" stroke-linecap="round"/>
+    <path d="M132 65l18-6-10 17-3-7z" fill="#ef4444"/>
+    <path d="M54 47c12-7 24-9 38-7" stroke="#ef4444" stroke-width="5" stroke-linecap="round" opacity=".75"/>
+  </g>
+  <text x="220" y="102" font-family="Plus Jakarta Sans, Poppins, Inter, Arial, sans-serif" font-weight="800" font-size="76" fill="#ffffff">Animesu</text>
+  <text x="224" y="148" font-family="Plus Jakarta Sans, Poppins, Inter, Arial, sans-serif" font-weight="700" font-size="30" fill="#d1d5db">アニメス</text>
+</svg>

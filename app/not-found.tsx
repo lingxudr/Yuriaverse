@@ -1,0 +1,3 @@
+import Link from 'next/link';
+import { Search, Home, Compass } from 'lucide-react';
+export default function NotFound(){return <main id="main-content" className="wrap notfound"><section className="panel anime-404"><div className="big-404">404</div><h1>Episode ini belum tersedia</h1><p className="muted">Halaman yang kamu cari mungkin pindah, terhapus, atau sedang tersesat di multiverse anime.</p><div className="server-list"><Link className="btn" href="/"><Home size={18}/> Beranda</Link><Link className="btn secondary" href="/search"><Search size={18}/> Cari Anime</Link><Link className="btn secondary" href="/anime"><Compass size={18}/> Jelajah Katalog</Link></div></section></main>}

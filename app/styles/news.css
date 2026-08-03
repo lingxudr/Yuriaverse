@@ -1,0 +1,2 @@
+/* News page refinements */
+.news-card a:focus-visible,.news-widget-item:focus-visible{outline:3px solid var(--v3-secondary);outline-offset:3px}.news-thumb img{object-position:center}

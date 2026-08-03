@@ -1,0 +1,1 @@
+export default function Loading(){return <main id="main-content" className="wrap" style={{paddingTop:24}}><div className="skeleton-hero"/><div className="skeleton-grid">{Array.from({length:12}).map((_,i)=><div className="skeleton-card" key={i}/>)}</div></main>}

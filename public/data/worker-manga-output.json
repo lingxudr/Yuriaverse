@@ -1,0 +1,310 @@
+{
+  "generatedAt": "2026-07-24T02:06:13.977Z",
+  "totalItems": 30,
+  "sources": [
+    {
+      "source": "AinzScans",
+      "url": "https://v2.ainzscans01.com/",
+      "ok": true,
+      "error": null,
+      "ms": 289,
+      "itemCount": 0
+    },
+    {
+      "source": "Komikcast",
+      "url": "https://v3.komikcast.fit/",
+      "ok": true,
+      "error": null,
+      "ms": 244,
+      "itemCount": 0
+    },
+    {
+      "source": "Manhwalist",
+      "url": "https://manhwalist.com/",
+      "ok": true,
+      "error": null,
+      "ms": 617,
+      "itemCount": 0
+    },
+    {
+      "source": "Komiku",
+      "url": "https://komiku.org/",
+      "ok": true,
+      "error": null,
+      "ms": 1147,
+      "itemCount": 30
+    }
+  ],
+  "items": [
+    {
+      "title": "Baca Komik Tsuihou Sareta Tenshou Juu Kishi wa Game Chishiki de Musou Suru",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Tsuihou%20Saret",
+      "chapters": [
+        "Chapter 173"
+      ],
+      "detailUrl": "https://komiku.org/manga/tsuihou-sareta-tenshou-juu-kishi-wa-game-chishiki-de-musou-suru/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Tomb Raider King",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Tomb%20Raider%20K",
+      "chapters": [
+        "Chapter 411"
+      ],
+      "detailUrl": "https://komiku.org/manga/tomb-raider-king/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Swordmaster’s Youngest Son",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Swordmaster%E2%80%99s",
+      "chapters": [
+        "Chapter 203"
+      ],
+      "detailUrl": "https://komiku.org/manga/swordmasters-youngest-son/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Magic Emperor",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Magic%20Emperor",
+      "chapters": [
+        "Chapter 884"
+      ],
+      "detailUrl": "https://komiku.org/manga/magic-emperor/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Infinite Evolution Starting from Zero",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Infinite%20Evol",
+      "chapters": [
+        "Chapter 111"
+      ],
+      "detailUrl": "https://komiku.org/manga/infinite-evolution-starting-from-zero/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik God-level Assassin, I’m the Shadow",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20God-level%20Ass",
+      "chapters": [
+        "Chapter 116"
+      ],
+      "detailUrl": "https://komiku.org/manga/god-level-assassin-im-the-shadow/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik My Wife Waited for Me in the Wheat Field",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20My%20Wife%20Waite",
+      "chapters": [
+        "Chapter 21"
+      ],
+      "detailUrl": "https://komiku.org/manga/my-wife-waited-for-me-in-the-wheat-field/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Nano Machine",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Nano%20Machine",
+      "chapters": [
+        "Chapter 322"
+      ],
+      "detailUrl": "https://komiku.org/manga/nano-machine/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik One Piece",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20One%20Piece",
+      "chapters": [
+        "Chapter 1188"
+      ],
+      "detailUrl": "https://komiku.org/manga/komik-one-piece-indo/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Rakudai Kenja Gakuin no Msou ~ Nidome no Tensei, S Rank Cheat Majutsushi Boukenroku",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Rakudai%20Kenja",
+      "chapters": [
+        "Chapter 27"
+      ],
+      "detailUrl": "https://komiku.org/manga/rakudai-kenja-gakuin-no-msou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Apex Future Martial Arts",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Apex%20Future%20M",
+      "chapters": [
+        "Chapter 339"
+      ],
+      "detailUrl": "https://komiku.org/manga/apex-future-martial-arts/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Full-Time Awakening",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Full-Time%20Awa",
+      "chapters": [
+        "Chapter 132"
+      ],
+      "detailUrl": "https://komiku.org/manga/full-time-awakening/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Solo Leveling",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Solo%20Leveling",
+      "chapters": [
+        "Chapter 180"
+      ],
+      "detailUrl": "https://komiku.org/manga/solo-leveling-id/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik The Ultimate of All Ages",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20The%20Ultimate%20",
+      "chapters": [
+        "Chapter 548"
+      ],
+      "detailUrl": "https://komiku.org/manga/the-ultimate-of-all-ages/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik The Dark Magician Transmigrates After 66666 Years",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20The%20Dark%20Magi",
+      "chapters": [
+        "Chapter 192"
+      ],
+      "detailUrl": "https://komiku.org/manga/the-dark-magician-transmigrates-after-66666-years/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik I was Thrown into an Unfamiliar Manga",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20I%20was%20Thrown%20",
+      "chapters": [
+        "Chapter 34"
+      ],
+      "detailUrl": "https://komiku.org/manga/i-was-thrown-into-an-unfamiliar-manga/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Revenge of the Bloom Flower",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Revenge%20of%20th",
+      "chapters": [
+        "Chapter 61"
+      ],
+      "detailUrl": "https://komiku.org/manga/revenge-of-the-bloom-flower/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Sakamoto Days",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Sakamoto%20Days",
+      "chapters": [
+        "Chapter 268"
+      ],
+      "detailUrl": "https://komiku.org/manga/sakamoto-days/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Lazy Prince Becomes a Genius",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Lazy%20Prince%20B",
+      "chapters": [
+        "Chapter 151"
+      ],
+      "detailUrl": "https://komiku.org/manga/lazy-prince-becomes-a-genius/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik The Legendary Hero Is An Academy Honors Student",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20The%20Legendary",
+      "chapters": [
+        "Chapter 95"
+      ],
+      "detailUrl": "https://komiku.org/manga/the-legendary-hero-is-an-academy-honors-student/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Saikyou no Kensei to Kenja no moto ni Tenseishita Ore wa Mujikaku Musou suru",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Saikyou%20no%20Ke",
+      "chapters": [
+        "Chapter 12.2"
+      ],
+      "detailUrl": "https://komiku.org/manga/saikyou-no-kensei-to-kenja-no-moto-ni-tenseishita-ore-wa-mujikaku-musou-suru/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Trash of the Count’s Family",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Trash%20of%20the%20",
+      "chapters": [
+        "Chapter 182"
+      ],
+      "detailUrl": "https://komiku.org/manga/trash-of-the-counts-family/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik God of Martial Arts",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20God%20of%20Martia",
+      "chapters": [
+        "Chapter 1179"
+      ],
+      "detailUrl": "https://komiku.org/manga/god-of-martial-arts/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Solo Max-Level Newbie",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Solo%20Max-Leve",
+      "chapters": [
+        "Chapter 269"
+      ],
+      "detailUrl": "https://komiku.org/manga/131241-solo-max-level-newbie/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik After the High School Goddess Dumped Me I Became a Martial Arts God",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20After%20the%20Hig",
+      "chapters": [
+        "Chapter 96"
+      ],
+      "detailUrl": "https://komiku.org/manga/after-the-high-school-goddess-dumped-me-i-became-a-martial-arts-god/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Kingdom",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Kingdom",
+      "chapters": [
+        "Chapter 883"
+      ],
+      "detailUrl": "https://komiku.org/manga/kingdom/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Kimetsu no Yaiba",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Kimetsu%20no%20Ya",
+      "chapters": [
+        "Chapter 205.6"
+      ],
+      "detailUrl": "https://komiku.org/manga/kimetsu-no-yaiba-indonesia/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Martial Peak Part 1",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Martial%20Peak%20",
+      "chapters": [
+        "Chapter 2000"
+      ],
+      "detailUrl": "https://komiku.org/manga/martial-peak/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik Apotheosis",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20Apotheosis",
+      "chapters": [
+        "Chapter 1301"
+      ],
+      "detailUrl": "https://komiku.org/manga/apotheosis-indonesia/",
+      "source": "Komiku"
+    },
+    {
+      "title": "Baca Komik One Punch Man",
+      "image": "https://placehold.co/300x450/191C2D/FFFFFF?text=Baca%20Komik%20One%20Punch%20Man",
+      "chapters": [
+        "Chapter 307"
+      ],
+      "detailUrl": "https://komiku.org/manga/manga-one-punch-man/",
+      "source": "Komiku"
+    }
+  ]
+}

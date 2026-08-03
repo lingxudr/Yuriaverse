@@ -1,0 +1,15 @@
+node_modules
+.next
+.vercel
+.npm
+.cache
+.local
+.config
+.env
+.env*.local
+*.log
+*.tsbuildinfo
+.DS_Store
+README.md
+uploads
+generated

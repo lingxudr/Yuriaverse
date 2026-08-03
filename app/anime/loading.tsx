@@ -1,0 +1,1 @@
+export default function Loading(){return <main id="main-content" className="wrap"><h1 style={{marginTop:24}}>Semua Anime</h1><p className="muted">Memuat katalog anime...</p><div className="skeleton-grid">{Array.from({length:18}).map((_,i)=><div className="skeleton-card" key={i}/>)}</div></main>}

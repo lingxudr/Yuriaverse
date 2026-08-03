@@ -1,0 +1,1406 @@
+[
+  {
+    "name": "Anime Home",
+    "path": "/anime/home",
+    "status": 200,
+    "ms": 917,
+    "topKeys": [
+      "status",
+      "creator",
+      "statusCode",
+      "statusMessage",
+      "message",
+      "ok",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 15,
+    "sampleFields": [
+      "title",
+      "poster",
+      "episodes",
+      "releaseDay",
+      "latestReleaseDate",
+      "animeId",
+      "href",
+      "otakudesuUrl"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "BanG Dream! Yume∞Mita",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/BanG-Dream-Yume∞Mita.jpg",
+      "episodes": 4,
+      "releaseDay": "Kamis",
+      "latestReleaseDate": "10 Jul",
+      "animeId": "bang-dream-yume%e2%88%9emita-sub-indo",
+      "href": "/anime/anime/bang-dream-yume%e2%88%9emita-sub-indo",
+      "otakudesuUrl": "https://otakudesu.blog/anime/bang-dream-yume%e2%88%9emita-sub-indo/"
+    }
+  },
+  {
+    "name": "Anime Ongoing",
+    "path": "/anime/ongoing-anime?page=1",
+    "status": 200,
+    "ms": 540,
+    "topKeys": [
+      "status",
+      "creator",
+      "statusCode",
+      "statusMessage",
+      "message",
+      "ok",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 25,
+    "sampleFields": [
+      "title",
+      "poster",
+      "episodes",
+      "releaseDay",
+      "latestReleaseDate",
+      "animeId",
+      "href",
+      "otakudesuUrl"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "BanG Dream! Yume∞Mita",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/BanG-Dream-Yume∞Mita.jpg",
+      "episodes": 4,
+      "releaseDay": "Kamis",
+      "latestReleaseDate": "10 Jul",
+      "animeId": "bang-dream-yume%e2%88%9emita-sub-indo",
+      "href": "/anime/anime/bang-dream-yume%e2%88%9emita-sub-indo",
+      "otakudesuUrl": "https://otakudesu.blog/anime/bang-dream-yume%e2%88%9emita-sub-indo/"
+    }
+  },
+  {
+    "name": "Anime Completed",
+    "path": "/anime/complete-anime?page=1",
+    "status": 200,
+    "ms": 237,
+    "topKeys": [
+      "status",
+      "creator",
+      "statusCode",
+      "statusMessage",
+      "message",
+      "ok",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 25,
+    "sampleFields": [
+      "title",
+      "poster",
+      "episodes",
+      "score",
+      "lastReleaseDate",
+      "animeId",
+      "href",
+      "otakudesuUrl"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": false
+    },
+    "sample": {
+      "title": "Ghost Concert: Missing Songs",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/Ghost-Concert-Missing-Songs-Sub-Indo.jpg",
+      "episodes": 12,
+      "score": "5.41",
+      "lastReleaseDate": "05 Jul",
+      "animeId": "ghost-concert-sub-indo",
+      "href": "/anime/anime/ghost-concert-sub-indo",
+      "otakudesuUrl": "https://otakudesu.blog/anime/ghost-concert-sub-indo/"
+    }
+  },
+  {
+    "name": "Anime Unlimited",
+    "path": "/anime/unlimited",
+    "status": 200,
+    "ms": 1947,
+    "topKeys": [
+      "status",
+      "creator",
+      "statusCode",
+      "statusMessage",
+      "message",
+      "ok",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 33,
+    "sampleFields": [
+      "startWith",
+      "animeList"
+    ],
+    "missing": {
+      "image": true,
+      "title": true,
+      "rating": true
+    },
+    "sample": {
+      "startWith": "#",
+      "animeList": [
+        {
+          "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+          "animeId": "compass-20-sub-indo",
+          "href": "/anime/anime/compass-20-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/anime/compass-20-sub-indo/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anime Genre",
+    "path": "/anime/genre",
+    "status": 200,
+    "ms": 223,
+    "topKeys": [
+      "status",
+      "creator",
+      "statusCode",
+      "statusMessage",
+      "message",
+      "ok",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 36,
+    "sampleFields": [
+      "title",
+      "genreId",
+      "href",
+      "otakudesuUrl"
+    ],
+    "missing": {
+      "image": true,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Action",
+      "genreId": "action",
+      "href": "/anime/genre/action",
+      "otakudesuUrl": "https://otakudesu.blog/genres/action/"
+    }
+  },
+  {
+    "name": "Anime Genre Action",
+    "path": "/anime/genre/action?page=1",
+    "status": 200,
+    "ms": 924,
+    "topKeys": [
+      "status",
+      "creator",
+      "statusCode",
+      "statusMessage",
+      "message",
+      "ok",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 15,
+    "sampleFields": [
+      "title",
+      "poster",
+      "studios",
+      "score",
+      "episodes",
+      "season",
+      "animeId",
+      "href",
+      "otakudesuUrl",
+      "synopsis",
+      "synopsis.paragraphs",
+      "genreList"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": false
+    },
+    "sample": {
+      "title": "Rakudai Kenja no Gakuin Musou",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2026/06/158376.jpg",
+      "studios": "EMT Squared",
+      "score": "",
+      "episodes": null,
+      "season": "Summer 2026",
+      "animeId": "rakudai-kenja-gakuin-musou-sub-indo",
+      "href": "/anime/anime/rakudai-kenja-gakuin-musou-sub-indo",
+      "otakudesuUrl": "https://otakudesu.blog/anime/rakudai-kenja-gakuin-musou-sub-indo/",
+      "synopsis": {
+        "paragraphs": [
+          "Setelah berhasil mengalahkan Raja Iblis, Ephtal dan 3 rekan lainnya mendapatkan gelar bangsawan dari kerajaan. Setelah meraih gelar tersebut, Ephtal mengajarkan berbagai ilmu sihir kepada anak-anak di tempatnya.",
+          "Sayangnya, umur Ephtal yang sudah terlalu tua memaksanya meninggalkan dunia dan kini kembali bereinkarnasi menjadi dirinya semasa kecil dulu.",
+          "Kini, Ephtal kembali berniat untuk mempelajari sihir hingga ke puncaknya. Walau begitu, hal ini tidak mudah mengingat kekuatan sihir di dunia ini mulai menurun. Mampukah dirinya mencapai kekuatan seperti dulu lagi?"
+        ]
+      },
+      "genreList": [
+        {
+          "title": "Action",
+          "genreId": "action",
+          "href": "/anime/genre/action",
+          "otakudesuUrl": "https://otakudesu.blog/genres/action/"
+        },
+        {
+          "title": "Adventure",
+          "genreId": "adventure",
+          "href": "/anime/genre/adventure",
+          "otakudesuUrl": "https://otakudesu.blog/genres/adventure/"
+        },
+        {
+          "title": "Fantasy",
+          "genreId": "fantasy",
+          "href": "/anime/genre/fantasy",
+          "otakudesuUrl": "https://otakudesu.blog/genres/fantasy/"
+        },
+        {
+          "title": "Reincarnation",
+          "genreId": "reincarnation",
+          "href": "/anime/genre/reincarnation",
+          "otakudesuUrl": "https://otakudesu.blog/genres/reincarnation/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anime Schedule",
+    "path": "/anime/schedule",
+    "status": 200,
+    "ms": 192,
+    "topKeys": [
+      "status",
+      "creator",
+      "data"
+    ],
+    "itemCount": 8,
+    "sampleFields": [
+      "day",
+      "anime_list"
+    ],
+    "missing": {
+      "image": true,
+      "title": true,
+      "rating": true
+    },
+    "sample": {
+      "day": "Senin",
+      "anime_list": [
+        {
+          "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
+          "slug": "buchigire-reijou-chikaimashita-sub-indo",
+          "url": "/anime/anime/buchigire-reijou-chikaimashita-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/Buchigire-Reijou-wa-Houfuku-wo-Chikaimashita-Sub.jpg"
+        },
+        {
+          "title": "Kuroneko to Majo no Kyoushitsu",
+          "slug": "kuroneko-to-majo-no-kyoushitsu-sub-indo",
+          "url": "/anime/anime/kuroneko-to-majo-no-kyoushitsu-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Kuroneko-to-Majo-no-Kyoushitsu.jpg"
+        },
+        {
+          "title": "Oni no Hanayome",
+          "slug": "oni-hanayome-sub-indo",
+          "url": "/anime/anime/oni-hanayome-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/Oni-no-Hanayome.jpg"
+        },
+        {
+          "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+          "slug": "saikyou-anyaku-arasoi-sub-indo",
+          "url": "/anime/anime/saikyou-anyaku-arasoi-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/Saikyou-Degarashi-Ouji-no-Anyaku-Teii-Arasoi.jpg"
+        },
+        {
+          "title": "Sayonara Lara",
+          "slug": "sayonara-lara-sub-indo",
+          "url": "/anime/anime/sayonara-lara-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/Sayonara-Lara.jpg"
+        },
+        {
+          "title": "Seihantai na Kimi to Boku Season 2",
+          "slug": "seihantai-kimi-boku-s2-sub-indo",
+          "url": "/anime/anime/seihantai-kimi-boku-s2-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/Seihantai-na-Kimi-to-Boku-Season-2-Sub.jpg"
+        },
+        {
+          "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+          "slug": "tenkouno-seiso-karen-bishoujo-sub-indo",
+          "url": "/anime/anime/tenkouno-seiso-karen-bishoujo-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/Tenkou-saki-no-Seiso-Karen-na-Bishoujo-ga-Mukashi-Danshi-to-Omotte-Issho-ni-Asonda-Osananajimi-Datta-Ken.jpg"
+        },
+        {
+          "title": "Tongari Boushi no Atelier",
+          "slug": "tongari-boushi-atelier-sub-indo",
+          "url": "/anime/anime/tongari-boushi-atelier-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Tongari-Boushi-no-Atelier.jpg"
+        },
+        {
+          "title": "World Is Dancing",
+          "slug": "world-dancing-sub-indo",
+          "url": "/anime/anime/world-dancing-sub-indo",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/06/158709.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anime Search",
+    "path": "/anime/search/one",
+    "status": 200,
+    "ms": 706,
+    "topKeys": [
+      "status",
+      "creator",
+      "statusCode",
+      "statusMessage",
+      "message",
+      "ok",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 15,
+    "sampleFields": [
+      "title",
+      "poster",
+      "status",
+      "score",
+      "animeId",
+      "href",
+      "otakudesuUrl",
+      "genreList"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": false
+    },
+    "sample": {
+      "title": "BanG Dream! Yume∞Mita Subtitle Indonesia",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2026/07/BanG-Dream-Yume∞Mita.jpg",
+      "status": "Ongoing",
+      "score": "",
+      "animeId": "bang-dream-yume%e2%88%9emita-sub-indo",
+      "href": "/anime/anime/bang-dream-yume%e2%88%9emita-sub-indo",
+      "otakudesuUrl": "https://otakudesu.blog/anime/bang-dream-yume%e2%88%9emita-sub-indo/",
+      "genreList": [
+        {
+          "title": "Music",
+          "genreId": "music",
+          "href": "/anime/genre/music",
+          "otakudesuUrl": "https://otakudesu.blog/genres/music/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Samehadaku Popular",
+    "path": "/anime/samehadaku/popular?page=1",
+    "status": 200,
+    "ms": 1291,
+    "topKeys": [
+      "status",
+      "creator",
+      "message",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 30,
+    "sampleFields": [
+      "title",
+      "poster",
+      "type",
+      "score",
+      "status",
+      "animeId",
+      "href",
+      "samehadakuUrl",
+      "genreList"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": false
+    },
+    "sample": {
+      "title": "One Piece",
+      "poster": "https://v2.samehadaku.how/wp-content/uploads/2020/04/E5RxYkWX0AAwdGH.png.jpg",
+      "type": "TV",
+      "score": "8.73",
+      "status": "Ongoing",
+      "animeId": "one-piece",
+      "href": "/samehadaku/anime/one-piece",
+      "samehadakuUrl": "https://v2.samehadaku.how/anime/one-piece/",
+      "genreList": [
+        {
+          "title": "Action",
+          "genreId": "action",
+          "href": "/samehadaku/genres/action",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/action/"
+        },
+        {
+          "title": "Adventure",
+          "genreId": "adventure",
+          "href": "/samehadaku/genres/adventure",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/adventure/"
+        },
+        {
+          "title": "Comedy",
+          "genreId": "comedy",
+          "href": "/samehadaku/genres/comedy",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/comedy/"
+        },
+        {
+          "title": "Drama",
+          "genreId": "drama",
+          "href": "/samehadaku/genres/drama",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/drama/"
+        },
+        {
+          "title": "Fantasy",
+          "genreId": "fantasy",
+          "href": "/samehadaku/genres/fantasy",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/fantasy/"
+        },
+        {
+          "title": "Shounen",
+          "genreId": "shounen",
+          "href": "/samehadaku/genres/shounen",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/shounen/"
+        },
+        {
+          "title": "Super Power",
+          "genreId": "super-power",
+          "href": "/samehadaku/genres/super-power",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/super-power/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Samehadaku Movies",
+    "path": "/anime/samehadaku/movies?page=1&order=update",
+    "status": 200,
+    "ms": 237,
+    "topKeys": [
+      "status",
+      "creator",
+      "message",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 20,
+    "sampleFields": [
+      "title",
+      "poster",
+      "type",
+      "score",
+      "status",
+      "animeId",
+      "href",
+      "samehadakuUrl",
+      "genreList"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": false
+    },
+    "sample": {
+      "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+      "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Tensei-shitara-Slime-Datta-Ken-Movie-2-Soukai-no-Namida-hen.jpg",
+      "type": "Movie",
+      "score": "7.18",
+      "status": "Completed",
+      "animeId": "tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen",
+      "href": "/samehadaku/anime/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen",
+      "samehadakuUrl": "https://v2.samehadaku.how/anime/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen/",
+      "genreList": [
+        {
+          "title": "Action",
+          "genreId": "action",
+          "href": "/samehadaku/genres/action",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/action/"
+        },
+        {
+          "title": "Comedy",
+          "genreId": "comedy",
+          "href": "/samehadaku/genres/comedy",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/comedy/"
+        },
+        {
+          "title": "Fantasy",
+          "genreId": "fantasy",
+          "href": "/samehadaku/genres/fantasy",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/fantasy/"
+        },
+        {
+          "title": "Isekai",
+          "genreId": "isekai",
+          "href": "/samehadaku/genres/isekai",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/isekai/"
+        },
+        {
+          "title": "Reincarnation",
+          "genreId": "reincarnation",
+          "href": "/samehadaku/genres/reincarnation",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/reincarnation/"
+        },
+        {
+          "title": "Shounen",
+          "genreId": "shounen",
+          "href": "/samehadaku/genres/shounen",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/shounen/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Samehadaku Batch",
+    "path": "/anime/samehadaku/batch?page=1",
+    "status": 200,
+    "ms": 1501,
+    "topKeys": [
+      "status",
+      "creator",
+      "message",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 30,
+    "sampleFields": [
+      "title",
+      "poster",
+      "type",
+      "score",
+      "status",
+      "batchId",
+      "href",
+      "samehadakuUrl",
+      "genreList"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": false
+    },
+    "sample": {
+      "title": "Hidarikiki no Eren Episode 1-13 [BATCH]",
+      "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/04/Hidarikiki-no-Eren.jpg",
+      "type": "TV",
+      "score": "6.25",
+      "status": "Completed",
+      "batchId": "hidarikiki-no-eren-episode-1-13-batch",
+      "href": "/samehadaku/batch/hidarikiki-no-eren-episode-1-13-batch",
+      "samehadakuUrl": "https://v2.samehadaku.how/batch/hidarikiki-no-eren-episode-1-13-batch/",
+      "genreList": [
+        {
+          "title": "Adult Cast",
+          "genreId": "adult-cast",
+          "href": "/samehadaku/genres/adult-cast",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/adult-cast/"
+        },
+        {
+          "title": "Drama",
+          "genreId": "drama",
+          "href": "/samehadaku/genres/drama",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/drama/"
+        },
+        {
+          "title": "Shounen",
+          "genreId": "shounen",
+          "href": "/samehadaku/genres/shounen",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/shounen/"
+        },
+        {
+          "title": "Visual Arts",
+          "genreId": "visual-arts",
+          "href": "/samehadaku/genres/visual-arts",
+          "samehadakuUrl": "https://v2.samehadaku.how/genre/visual-arts/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Samehadaku Detail",
+    "path": "/anime/samehadaku/anime/one-piece",
+    "status": 200,
+    "ms": 574,
+    "topKeys": [
+      "status",
+      "creator",
+      "message",
+      "data",
+      "pagination"
+    ],
+    "itemCount": 1,
+    "sampleFields": [],
+    "missing": {
+      "image": true,
+      "title": true,
+      "rating": true
+    },
+    "sample": "Gol D. Roger dikenal sebagai Raja Bajak Laut, Orang terkuat dan paling terkenal yang pernah mengarungi Grand Line. Penangkapan dan Eksekusi Roger oleh Pemerintahan Dunia telah membawa perubahan di seluruh dunia. Kata kata terakhir sebelum kematiannya mengungkapkan lokasi dari harta karun terbesar di dunia, One Piece. Inilah awal dari era bajak laut, semua orang bermimpi menemukan One Piece (yang mana menjanjikan harta dan tahta yang tak terhingga jumlahnya), dan tentunya merebut gelar dari orang yang pertama menemukannya, gelar Raja Bajak Laut. Monkey D Luffy."
+  },
+  {
+    "name": "Donghua Ongoing",
+    "path": "/anime/donghua/ongoing/1",
+    "status": 200,
+    "ms": 224,
+    "topKeys": [
+      "status",
+      "creator",
+      "ongoing_donghua"
+    ],
+    "itemCount": 20,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "status",
+      "href",
+      "anichinUrl"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Crowned In A Hundred Days",
+      "slug": "crowned-in-a-hundred-days/",
+      "poster": "https://anichin.cafe/wp-content/uploads/2026/07/Crowned-In-A-Hundred-Days.webp",
+      "status": "Ongoing",
+      "href": "/donghua/detail/crowned-in-a-hundred-days/",
+      "anichinUrl": "https://anichin.cafe/seri/crowned-in-a-hundred-days/"
+    }
+  },
+  {
+    "name": "Donghua Completed",
+    "path": "/anime/donghua/completed/1",
+    "status": 200,
+    "ms": 216,
+    "topKeys": [
+      "status",
+      "creator",
+      "completed_donghua"
+    ],
+    "itemCount": 20,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "status",
+      "href",
+      "anichinUrl"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Quanzhi Fashi Season 7",
+      "slug": "quanzhi-fashi-season-7/",
+      "poster": "https://anichin.cafe/wp-content/uploads/2026/05/Quanzhi-Fashi-Season-7.webp",
+      "status": "Completed",
+      "href": "/donghua/detail/quanzhi-fashi-season-7/",
+      "anichinUrl": "https://anichin.cafe/seri/quanzhi-fashi-season-7/"
+    }
+  },
+  {
+    "name": "Donghua Latest",
+    "path": "/anime/donghua/latest/1",
+    "status": 200,
+    "ms": 344,
+    "topKeys": [
+      "status",
+      "creator",
+      "latest_donghua"
+    ],
+    "itemCount": 20,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "status",
+      "type",
+      "sub",
+      "href",
+      "anichinUrl"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Perfect World",
+      "slug": "perfect-world",
+      "poster": "https://anichin.cafe/wp-content/uploads/2021/04/Perfect-World.webp",
+      "status": "Ongoing",
+      "type": "Donghua",
+      "sub": "Sub",
+      "href": "/donghua/detail/perfect-world",
+      "anichinUrl": "https://anichin.cafe/seri/perfect-world/"
+    }
+  },
+  {
+    "name": "Donghua Genres",
+    "path": "/anime/donghua/genres",
+    "status": 200,
+    "ms": 248,
+    "topKeys": [
+      "creator",
+      "data"
+    ],
+    "itemCount": 398,
+    "sampleFields": [
+      "name",
+      "slug",
+      "href",
+      "anichinUrl"
+    ],
+    "missing": {
+      "image": true,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "name": "Action",
+      "slug": "action",
+      "href": "/donghua/genres/action",
+      "anichinUrl": "https://anichin.cafe/genres/action/"
+    }
+  },
+  {
+    "name": "Donghua Genre Action",
+    "path": "/anime/donghua/genres/action/1",
+    "status": 200,
+    "ms": 301,
+    "topKeys": [
+      "creator",
+      "data"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "status",
+      "type",
+      "sub",
+      "href",
+      "anichinUrl"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "100.000 Years of Refining Qi",
+      "slug": "100-000-years-of-refining-qi",
+      "poster": "https://anichin.cafe/wp-content/uploads/2023/06/100.000-Years-of-Refining-Qi.webp",
+      "status": "Ongoing",
+      "type": "Donghua",
+      "sub": "Sub",
+      "href": "/donghua/detail/100-000-years-of-refining-qi",
+      "anichinUrl": "https://anichin.cafe/seri/100-000-years-of-refining-qi/"
+    }
+  },
+  {
+    "name": "Donghua Schedule",
+    "path": "/anime/donghua/schedule",
+    "status": 200,
+    "ms": 351,
+    "topKeys": [
+      "status",
+      "creator",
+      "schedule"
+    ],
+    "itemCount": 7,
+    "sampleFields": [
+      "day",
+      "donghua_list"
+    ],
+    "missing": {
+      "image": true,
+      "title": true,
+      "rating": true
+    },
+    "sample": {
+      "day": "Thursday",
+      "donghua_list": [
+        {
+          "title": "Supreme Alchemy",
+          "slug": "supreme-alchemy",
+          "poster": "https://anichin.cafe/wp-content/uploads/2023/12/Supreme-Alchemy.webp",
+          "release_time": "at 10:44",
+          "episode": "171",
+          "href": "/donghua/detail/supreme-alchemy",
+          "anichinUrl": "https://anichin.cafe/seri/supreme-alchemy/"
+        },
+        {
+          "title": "Ancient Star Divine Technique",
+          "slug": "ancient-star-divine-technique",
+          "poster": "https://anichin.cafe/wp-content/uploads/2024/01/Ancient-Star-Divine-Technique.webp",
+          "release_time": "at 08:52",
+          "episode": "??",
+          "href": "/donghua/detail/ancient-star-divine-technique",
+          "anichinUrl": "https://anichin.cafe/seri/ancient-star-divine-technique/"
+        },
+        {
+          "title": "Heaven Official’s Blessing Season 2",
+          "slug": "heaven-officials-blessing-season-2",
+          "poster": "https://anichin.cafe/wp-content/uploads/2023/10/Heaven-Officials-Blessing-Season-2.webp",
+          "release_time": "at 13:19",
+          "episode": "4",
+          "href": "/donghua/detail/heaven-officials-blessing-season-2",
+          "anichinUrl": "https://anichin.cafe/seri/heaven-officials-blessing-season-2/"
+        },
+        {
+          "title": "Wonderland Season 5",
+          "slug": "wonderland-season-5",
+          "poster": "https://i1.wp.com/anichin.cafe/wp-content/uploads/2023/08/Wonderland-S5-Ye-Xingyun.jpg?resize=247,350",
+          "release_time": "at 04:45",
+          "episode": "??",
+          "href": "/donghua/detail/wonderland-season-5",
+          "anichinUrl": "https://anichin.cafe/seri/wonderland-season-5/"
+        },
+        {
+          "title": "My Sectarian Members Are Spies",
+          "slug": "my-sectarian-members-are-spies",
+          "poster": "https://anichin.cafe/wp-content/uploads/2024/10/My-Sectarian-Members-Are-Spies.webp",
+          "release_time": "at 03:39",
+          "episode": "147",
+          "href": "/donghua/detail/my-sectarian-members-are-spies",
+          "anichinUrl": "https://anichin.cafe/seri/my-sectarian-members-are-spies/"
+        },
+        {
+          "title": "X-Epoch of Dragon",
+          "slug": "x-epoch-of-dragon",
+          "poster": "https://anichin.cafe/wp-content/uploads/2023/08/X-Epoch-of-Dragon.webp",
+          "release_time": "at 12:42",
+          "episode": "17",
+          "href": "/donghua/detail/x-epoch-of-dragon",
+          "anichinUrl": "https://anichin.cafe/seri/x-epoch-of-dragon/"
+        },
+        {
+          "title": "GoWest: Overworked",
+          "slug": "gowest-overworked",
+          "poster": "https://anichin.cafe/wp-content/uploads/2025/05/GoWest：Overworked.webp",
+          "release_time": "at 14:19",
+          "episode": "4",
+          "href": "/donghua/detail/gowest-overworked",
+          "anichinUrl": "https://anichin.cafe/seri/gowest-overworked/"
+        },
+        {
+          "title": "The Demon King Who Lost His Job",
+          "slug": "the-demon-king-who-lost-his-job",
+          "poster": "https://anichin.cafe/wp-content/uploads/2025/02/The-Demon-King-Who-Lost-His-Job.webp",
+          "release_time": "at 16:04",
+          "episode": "7",
+          "href": "/donghua/detail/the-demon-king-who-lost-his-job",
+          "anichinUrl": "https://anichin.cafe/seri/the-demon-king-who-lost-his-job/"
+        },
+        {
+          "title": "Perfect World",
+          "slug": "perfect-world",
+          "poster": "https://anichin.cafe/wp-content/uploads/2021/04/Perfect-World.webp",
+          "release_time": "",
+          "episode": "277",
+          "href": "/donghua/detail/perfect-world",
+          "anichinUrl": "https://anichin.cafe/seri/perfect-world/"
+        },
+        {
+          "title": "BLADES OF THE GUARDIANS 2",
+          "slug": "blades-of-the-guardians-2",
+          "poster": "https://anichin.cafe/wp-content/uploads/2026/06/BLADES-OF-THE-GUARDIANS-2.webp",
+          "release_time": "",
+          "episode": "06",
+          "href": "/donghua/detail/blades-of-the-guardians-2",
+          "anichinUrl": "https://anichin.cafe/seri/blades-of-the-guardians-2/"
+        },
+        {
+          "title": "Tomb of Fallen Gods Season 3",
+          "slug": "tomb-of-fallen-gods-season-3",
+          "poster": "https://anichin.cafe/wp-content/uploads/2025/08/Tomb-of-Fallen-Gods-Season-3.webp",
+          "release_time": "",
+          "episode": "50",
+          "href": "/donghua/detail/tomb-of-fallen-gods-season-3",
+          "anichinUrl": "https://anichin.cafe/seri/tomb-of-fallen-gods-season-3/"
+        },
+        {
+          "title": "My Senior Brother Is Too Steady",
+          "slug": "my-senior-brother-is-too-steady",
+          "poster": "https://anichin.cafe/wp-content/uploads/2023/12/Senior-Brother-2.webp",
+          "release_time": "",
+          "episode": "149",
+          "href": "/donghua/detail/my-senior-brother-is-too-steady",
+          "anichinUrl": "https://anichin.cafe/seri/my-senior-brother-is-too-steady/"
+        },
+        {
+          "title": "Against the Gods",
+          "slug": "against-the-gods",
+          "poster": "https://i2.wp.com/anichin.cafe/wp-content/uploads/2023/09/Against-the-Gods.png?resize=247,350",
+          "release_time": "",
+          "episode": "45",
+          "href": "/donghua/detail/against-the-gods",
+          "anichinUrl": "https://anichin.cafe/seri/against-the-gods/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Donghua Detail",
+    "path": "/anime/donghua/detail/crowned-in-a-hundred-days",
+    "status": 200,
+    "ms": 318,
+    "topKeys": [
+      "status",
+      "creator",
+      "title",
+      "alter_title",
+      "poster",
+      "rating",
+      "studio",
+      "network",
+      "released",
+      "duration",
+      "type",
+      "episodes_count",
+      "season",
+      "country",
+      "released_on",
+      "updated_on",
+      "genres",
+      "synopsis",
+      "episodes_list"
+    ],
+    "itemCount": 3,
+    "sampleFields": [
+      "name",
+      "slug",
+      "href",
+      "anichinUrl"
+    ],
+    "missing": {
+      "image": true,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "name": "Action",
+      "slug": "action",
+      "href": "/donghua/genres/action",
+      "anichinUrl": "https://anichin.cafe/genres/action/"
+    }
+  },
+  {
+    "name": "Animasu Ongoing",
+    "path": "/anime/animasu/ongoing?page=1",
+    "status": 200,
+    "ms": 208,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "animes",
+      "pagination"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "episode",
+      "status_or_day",
+      "type"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+      "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
+      "poster": "https://i1.wp.com/v1.animasu.work/wp-content/uploads/2026/07/158711.jpg",
+      "episode": "Episode 2",
+      "status_or_day": "🔥🔥🔥",
+      "type": "TV"
+    }
+  },
+  {
+    "name": "Animasu Completed",
+    "path": "/anime/animasu/completed?page=1",
+    "status": 200,
+    "ms": 193,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "animes",
+      "pagination"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "episode",
+      "status_or_day",
+      "type"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+      "slug": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
+      "poster": "https://i3.wp.com/v1.animasu.work/wp-content/uploads/2022/04/121121.jpg",
+      "episode": "12 Episode",
+      "status_or_day": "Selesai ✓",
+      "type": "TV"
+    }
+  },
+  {
+    "name": "Animasu Movies",
+    "path": "/anime/animasu/movies?page=1",
+    "status": 200,
+    "ms": 196,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "animes",
+      "pagination"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "episode",
+      "status_or_day",
+      "type"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+      "slug": "tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen",
+      "poster": "https://i3.wp.com/v1.animasu.work/wp-content/uploads/2026/06/153665.jpg",
+      "episode": "Feb 27, 2026",
+      "status_or_day": "",
+      "type": "★ 7.16"
+    }
+  },
+  {
+    "name": "Animasu Popular",
+    "path": "/anime/animasu/popular?page=1",
+    "status": 200,
+    "ms": 196,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "animes",
+      "pagination"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "episode",
+      "status_or_day",
+      "type"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "One Piece Serial",
+      "slug": "op-indonesia",
+      "poster": "https://i1.wp.com/v1.animasu.work/wp-content/uploads/2020/04/download-1.jpeg",
+      "episode": "Episode 1168",
+      "status_or_day": "🔥🔥🔥",
+      "type": "TV"
+    }
+  },
+  {
+    "name": "Animasu Schedule",
+    "path": "/anime/animasu/schedule",
+    "status": 200,
+    "ms": 203,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "schedule"
+    ],
+    "itemCount": 14,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "episode",
+      "status_or_day",
+      "type"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Otome Kaijuu Caraméliser",
+      "slug": "otome-kaijuu-carameliser",
+      "poster": "https://i3.wp.com/v1.animasu.work/wp-content/uploads/2026/07/156340.jpg",
+      "episode": "Sudah Rilis!",
+      "status_or_day": "??",
+      "type": ""
+    }
+  },
+  {
+    "name": "Animasu Live Action Search",
+    "path": "/anime/animasu/search/live%20action?page=1",
+    "status": 200,
+    "ms": 193,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "animes",
+      "pagination"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "episode",
+      "status_or_day",
+      "type"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "One Piece Season 2 Live Action",
+      "slug": "one-piece-season-2-live-action",
+      "poster": "https://i2.wp.com/v1.animasu.work/wp-content/uploads/2026/03/One_Piece_Live_Action_Season_2_Now_Playing_Poster.jpg",
+      "episode": "8 Episode",
+      "status_or_day": "Selesai ✓",
+      "type": "Live Action"
+    }
+  },
+  {
+    "name": "Animasu Detail Live Action",
+    "path": "/anime/animasu/detail/one-piece-season-2-live-action",
+    "status": 200,
+    "ms": 194,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "detail"
+    ],
+    "itemCount": 5,
+    "sampleFields": [
+      "name",
+      "slug"
+    ],
+    "missing": {
+      "image": true,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "name": "Aksi",
+      "slug": "aksi"
+    }
+  },
+  {
+    "name": "Kusonime OVA",
+    "path": "/anime/kusonime/type/ova?page=1",
+    "status": 200,
+    "ms": 971,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "anime_list"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "genres",
+      "released"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Fushigi Yuugi OVA Batch Subtitle Indonesia",
+      "slug": "fushigi-yuugi-ova-batch-subtitle-indonesia",
+      "poster": "https://kusonime.com/wp-content/uploads/2026/06/Fushigi-Yuugi-OVA.jpg",
+      "genres": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Historical",
+          "slug": "historical"
+        },
+        {
+          "name": "Martial Arts",
+          "slug": "martial-arts"
+        },
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Shoujo",
+          "slug": "shoujo"
+        }
+      ],
+      "released": "11:15 am"
+    }
+  },
+  {
+    "name": "Kusonime ONA",
+    "path": "/anime/kusonime/type/ona?page=1",
+    "status": 200,
+    "ms": 980,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "anime_list"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "genres",
+      "released"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "Guimi Zhi Zhu Specials Batch Subtitle Indonesia",
+      "slug": "lotm-sp-batch-subtitle-indonesia",
+      "poster": "https://kusonime.com/wp-content/uploads/2026/06/Guimi-Zhi-Zhu-Specials.jpg",
+      "genres": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Mystery",
+          "slug": "mystery"
+        },
+        {
+          "name": "Psychological",
+          "slug": "psychological"
+        }
+      ],
+      "released": "10:36 am"
+    }
+  },
+  {
+    "name": "Kusonime Special",
+    "path": "/anime/kusonime/type/special?page=1",
+    "status": 200,
+    "ms": 957,
+    "topKeys": [
+      "status",
+      "creator",
+      "source",
+      "anime_list"
+    ],
+    "itemCount": 10,
+    "sampleFields": [
+      "title",
+      "slug",
+      "poster",
+      "genres",
+      "released"
+    ],
+    "missing": {
+      "image": false,
+      "title": false,
+      "rating": true
+    },
+    "sample": {
+      "title": "One Piece: Heroines Batch Subtitle Indonesia",
+      "slug": "one-piece-heroines-batch-subtitle-indonesia",
+      "poster": "https://kusonime.com/wp-content/uploads/2026/07/One-Piece-Heroines.jpg",
+      "genres": [
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Shounen",
+          "slug": "shounen"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "released": "11:30 pm"
+    }
+  }
+]

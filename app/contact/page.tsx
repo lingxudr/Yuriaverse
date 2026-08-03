@@ -1,0 +1,1 @@
+export default function Page(){return <main className="wrap"><section className="panel" style={{marginTop:42}}><h1>Contact</h1><p className="muted">Halaman informasi Animesu. Untuk kebutuhan produksi, konten legal dan kontak dapat disesuaikan.</p></section></main>}

@@ -1,0 +1,10 @@
+'use client';
+import useSWR from 'swr';
+import { RefreshCw } from 'lucide-react';
+const fetcher = (url: string) => fetch(url, { cache: 'no-store' }).then((r)=>r.json());
+export function PlayerHealthClient({ secretKey = '' }: { secretKey?: string }){
+  const { data, error, isLoading, mutate } = useSWR(`/api/dev/player-health?max=2${secretKey ? `&key=${encodeURIComponent(secretKey)}` : ''}`, fetcher, { refreshInterval: 120000 });
+  if (isLoading) return <section className="panel"><h2>Memeriksa player...</h2><div className="skeleton-grid">{Array.from({length:8}).map((_,i)=><div className="skeleton-card" key={i}/>)}</div></section>;
+  if (error) return <section className="panel empty"><h2>Audit player gagal</h2><p className="muted">{String(error.message || error)}</p><button className="btn" onClick={()=>mutate()}><RefreshCw size={16}/> Coba Lagi</button></section>;
+  return <div className="dev-health"><section className={`panel health-hero ${data.ok?'ok':'bad'}`}><div><h2>{data.ok?'Player samples sehat':'Ada sample player bermasalah'}</h2><p className="muted">Last check: {data.at} • {data.latencyMs}ms • {data.summary.failed} issue</p></div><button className="btn" onClick={()=>mutate()}><RefreshCw size={16}/> Refresh</button></section>{data.report.map((group:any)=><section className="panel" key={`${group.kind}-${group.tab}`}><h2>{group.kind} / {group.tab}</h2><p className="muted">List: {group.listOk?'OK':'FAIL'} • {group.listLatencyMs}ms • {group.itemCount} item</p><div className="health-table">{group.results.map((r:any)=><article className={`health-row ${r.issues.length?'bad':'ok'}`} key={r.slug}><div><b>{r.title}</b><code>{r.slug}</code><small>Detail: {String(r.detailOk)} • Episode: {String(r.episodeOk)} • Servers: {r.serverCount} • Downloads: {r.downloadCount}</small></div><div><span>{r.issues.length? 'ISSUE':'OK'}</span><small>{r.issues.join(', ') || 'No issue'}</small><small>{r.streamUrl ? 'Stream URL OK' : 'No stream URL'}</small></div></article>)}</div></section>)}</div>
+}
