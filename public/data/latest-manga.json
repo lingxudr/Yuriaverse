@@ -5,23 +5,37 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/06/22/20260622011053_23e8e5ce38f77a5f_7c7771ec.jpg?resize=240,150",
     "chapter": "Chapter 14",
     "genre": "Aksi",
-    "updateTime": "2 menit lalu",
+    "updateTime": "1 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/contract-killer-enrollment/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "contract-killer-enrollment",
     "primaryProvider": "Komiku",
-    "mirrors": [],
-    "duplicateCount": 0,
+    "mirrors": [
+      {
+        "provider": "Natsu",
+        "source": "Natsu",
+        "sourceBadge": "N",
+        "title": "Contract Killer Enrollment",
+        "detailUrl": "https://natsu.one/manga/contract-killer-enrollment/",
+        "image": "https://via.placeholder.com/200x300?text=Contract%20Killer%20Enrollme",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      }
+    ],
+    "duplicateCount": 1,
     "providers": [
-      "Komiku"
+      "Komiku",
+      "Natsu"
     ],
     "latestChapter": "Chapter 14",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/contract-killer-enrollment/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/06/22/20260622011053_23e8e5ce38f77a5f_7c7771ec.jpg?resize=240,150",
-    "latestUpdateTime": "2 menit lalu",
+    "latestUpdateTime": "1 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 14",
@@ -55,7 +69,13 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [],
+    "mirrorHealth": [
+      {
+        "provider": "Natsu",
+        "score": 63,
+        "status": "degraded"
+      }
+    ],
     "freshness": {
       "primaryChapter": "Chapter 14",
       "latestChapter": "Chapter 14",
@@ -64,9 +84,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.250Z",
-    "mergeProviderCount": 1,
-    "mirrorCount": 0,
+    "scrapedAt": "2026-08-17T02:16:31.206Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -76,7 +96,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/7-nin-no-nemuri-hime/manga_img_horizontal-Back-7-Nin-no-Nemuri-Hime.jpg?resize=240,150",
     "chapter": "Chapter 89",
     "genre": "Romantis",
-    "updateTime": "32 menit lalu",
+    "updateTime": "2 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/7-nin-no-nemuri-hime/",
     "source": "Komiku",
@@ -106,7 +126,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/7-nin-no-nemuri-hime/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/7-nin-no-nemuri-hime/manga_img_horizontal-Back-7-Nin-no-Nemuri-Hime.jpg?resize=240,150",
-    "latestUpdateTime": "32 menit lalu",
+    "latestUpdateTime": "2 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 89",
@@ -155,7 +175,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.250Z",
+    "scrapedAt": "2026-08-17T02:16:31.206Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -167,7 +187,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/kuro-no-shoukanshi/manga_img_horizontal-Manga-Kuro-no-Shoukanshi.jpg?resize=240,150",
     "chapter": "Chapter 196",
     "genre": "Isekai",
-    "updateTime": "1 jam lalu",
+    "updateTime": "3 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/kuro-no-shoukanshi/",
     "source": "Komiku",
@@ -183,7 +203,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/kuro-no-shoukanshi/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/kuro-no-shoukanshi/manga_img_horizontal-Manga-Kuro-no-Shoukanshi.jpg?resize=240,150",
-    "latestUpdateTime": "1 jam lalu",
+    "latestUpdateTime": "3 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 196",
@@ -226,7 +246,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.250Z",
+    "scrapedAt": "2026-08-17T02:16:31.206Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -238,7 +258,7 @@
     "image": "https://thumbnail.komiku.to/img/upload/chick_class_hunter_is_being_filial_/img_684cfe7b90af93.21531616.jpg?resize=240,150",
     "chapter": "Chapter 82",
     "genre": "Fantasi",
-    "updateTime": "3 jam lalu",
+    "updateTime": "4 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/chick-class-hunter-is-being-filial/",
     "source": "Komiku",
@@ -254,7 +274,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/chick-class-hunter-is-being-filial/",
     "latestImage": "https://thumbnail.komiku.to/img/upload/chick_class_hunter_is_being_filial_/img_684cfe7b90af93.21531616.jpg?resize=240,150",
-    "latestUpdateTime": "3 jam lalu",
+    "latestUpdateTime": "4 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 82",
@@ -297,7 +317,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.250Z",
+    "scrapedAt": "2026-08-17T02:16:31.206Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -309,7 +329,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/06/26/20260626164424_fe9b54acdcc55b7c_8b38abaa.jpg?resize=240,150",
     "chapter": "Chapter 72",
     "genre": "Romantis",
-    "updateTime": "7 jam lalu",
+    "updateTime": "8 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/how-can-you-pay-back-the-kindness-i-raised-with-obsession/",
     "source": "Komiku",
@@ -317,6 +337,18 @@
     "canonicalId": "how-can-you-pay-back-kindness-i-raised-with-obsession",
     "primaryProvider": "Komiku",
     "mirrors": [
+      {
+        "provider": "Wurmz",
+        "source": "Wurmz",
+        "sourceBadge": "W",
+        "title": "How Can You Pay Back The Kindness I Raised With Obsession?",
+        "detailUrl": "https://wurmz.net/detail/manhwa/apakah-kamu-membalas-budi-karena-membesarkanku-dengan-obsesi",
+        "image": "https://via.placeholder.com/200x300?text=How%20Can%20You%20Pay%20Back%20The",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      },
       {
         "provider": "Natsu",
         "source": "Natsu",
@@ -330,16 +362,17 @@
         "updateBucket": ""
       }
     ],
-    "duplicateCount": 1,
+    "duplicateCount": 2,
     "providers": [
       "Komiku",
+      "Wurmz",
       "Natsu"
     ],
     "latestChapter": "Chapter 72",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/how-can-you-pay-back-the-kindness-i-raised-with-obsession/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/06/26/20260626164424_fe9b54acdcc55b7c_8b38abaa.jpg?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "8 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 72",
@@ -375,6 +408,11 @@
     },
     "mirrorHealth": [
       {
+        "provider": "Wurmz",
+        "score": 63,
+        "status": "degraded"
+      },
+      {
         "provider": "Natsu",
         "score": 63,
         "status": "degraded"
@@ -388,9 +426,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.250Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 3,
+    "mirrorCount": 2,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -400,7 +438,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/my-daughter-is-the-final-boss/manga_img_horizontal-Komik-My-Daughter-is-the-Final-Boss.png?resize=240,150",
     "chapter": "Chapter 161",
     "genre": "Fantasi",
-    "updateTime": "7 jam lalu",
+    "updateTime": "8 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/my-daughter-is-the-final-boss/",
     "source": "Komiku",
@@ -430,7 +468,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/my-daughter-is-the-final-boss/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/my-daughter-is-the-final-boss/manga_img_horizontal-Komik-My-Daughter-is-the-Final-Boss.png?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "8 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 161",
@@ -479,7 +517,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.250Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -491,37 +529,23 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/06/30/20260630190400_797f5ecdf74f83eb_b5c90f05.jpg?resize=240,150",
     "chapter": "Chapter 27",
     "genre": "Fantasi",
-    "updateTime": "7 jam lalu",
+    "updateTime": "8 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/i-may-be-a-sickly-mom-but-ill-raise-my-fallen-son/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "i-may-be-sickly-mom-but-i-ll-raise-my-fallen-son",
     "primaryProvider": "Komiku",
-    "mirrors": [
-      {
-        "provider": "Natsu",
-        "source": "Natsu",
-        "sourceBadge": "N",
-        "title": "I May Be a Sickly Mom, but I'll Raise My Fallen Son!",
-        "detailUrl": "https://natsu.one/manga/i-may-be-a-sickly-mom-but-ill-raise-my-fallen-son/",
-        "image": "https://via.placeholder.com/200x300?text=I%20May%20Be%20a%20Sickly%20Mom%2C%20b",
-        "chapter": "Chapter terbaru",
-        "genre": "",
-        "updateTime": "",
-        "updateBucket": ""
-      }
-    ],
-    "duplicateCount": 1,
+    "mirrors": [],
+    "duplicateCount": 0,
     "providers": [
-      "Komiku",
-      "Natsu"
+      "Komiku"
     ],
     "latestChapter": "Chapter 27",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/i-may-be-a-sickly-mom-but-ill-raise-my-fallen-son/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/06/30/20260630190400_797f5ecdf74f83eb_b5c90f05.jpg?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "8 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 27",
@@ -555,13 +579,7 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [
-      {
-        "provider": "Natsu",
-        "score": 63,
-        "status": "degraded"
-      }
-    ],
+    "mirrorHealth": [],
     "freshness": {
       "primaryChapter": "Chapter 27",
       "latestChapter": "Chapter 27",
@@ -570,9 +588,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 1,
+    "mirrorCount": 0,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -582,7 +600,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/the-apex-of-dragon-mastery/manga_img_horizontal-Back-The-Apex-of-Dragon-Mastery.jpg?resize=240,150",
     "chapter": "Chapter 232",
     "genre": "Fantasi",
-    "updateTime": "7 jam lalu",
+    "updateTime": "8 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/the-apex-of-dragon-mastery/",
     "source": "Komiku",
@@ -612,7 +630,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/the-apex-of-dragon-mastery/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/the-apex-of-dragon-mastery/manga_img_horizontal-Back-The-Apex-of-Dragon-Mastery.jpg?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "8 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 232",
@@ -661,7 +679,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -673,7 +691,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/i-reincarnated-as-the-crazed-heir/manga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg?resize=240,150",
     "chapter": "Chapter 194",
     "genre": "Aksi",
-    "updateTime": "7 jam lalu",
+    "updateTime": "8 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/",
     "source": "Komiku",
@@ -703,7 +721,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/i-reincarnated-as-the-crazed-heir/manga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "8 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 194",
@@ -752,7 +770,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -764,7 +782,7 @@
     "image": "https://thumbnail.komiku.to/img/upload/greetings__sect_leader/img_695cbae4b8ddd9.46016532.jpg?resize=240,150",
     "chapter": "Chapter 31",
     "genre": "Martial Arts",
-    "updateTime": "7 jam lalu",
+    "updateTime": "8 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/greetings-sect-leader/",
     "source": "Komiku",
@@ -772,6 +790,18 @@
     "canonicalId": "greetings-sect-leader",
     "primaryProvider": "Komiku",
     "mirrors": [
+      {
+        "provider": "Wurmz",
+        "source": "Wurmz",
+        "sourceBadge": "W",
+        "title": "Greetings, Sect Leader",
+        "detailUrl": "https://wurmz.net/detail/manhua/salam-pemimpin-sekte",
+        "image": "https://via.placeholder.com/200x300?text=Greetings%2C%20Sect%20Leader",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      },
       {
         "provider": "Natsu",
         "source": "Natsu",
@@ -785,16 +815,17 @@
         "updateBucket": ""
       }
     ],
-    "duplicateCount": 1,
+    "duplicateCount": 2,
     "providers": [
       "Komiku",
+      "Wurmz",
       "Natsu"
     ],
     "latestChapter": "Chapter 31",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/greetings-sect-leader/",
     "latestImage": "https://thumbnail.komiku.to/img/upload/greetings__sect_leader/img_695cbae4b8ddd9.46016532.jpg?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "8 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 31",
@@ -830,6 +861,11 @@
     },
     "mirrorHealth": [
       {
+        "provider": "Wurmz",
+        "score": 63,
+        "status": "degraded"
+      },
+      {
         "provider": "Natsu",
         "score": 63,
         "status": "degraded"
@@ -843,9 +879,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 3,
+    "mirrorCount": 2,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -855,7 +891,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/spare-me-great-lord/manga_img_horizontal-Komik-Spare-Me-Great-Lord.jpg?resize=240,150",
     "chapter": "Chapter 762",
     "genre": "Fantasi",
-    "updateTime": "7 jam lalu",
+    "updateTime": "8 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/spare-me-great-lord/",
     "source": "Komiku",
@@ -863,30 +899,6 @@
     "canonicalId": "spare-me-great-lord",
     "primaryProvider": "Komiku",
     "mirrors": [
-      {
-        "provider": "Wurmz",
-        "source": "Wurmz",
-        "sourceBadge": "W",
-        "title": "Spare Me, Great Lord!",
-        "detailUrl": "https://wurmz.net/detail/manhua/ampuni-aku-tuan-yang-agung",
-        "image": "https://via.placeholder.com/200x300?text=Spare%20Me%2C%20Great%20Lord!",
-        "chapter": "Chapter terbaru",
-        "genre": "",
-        "updateTime": "",
-        "updateBucket": ""
-      },
-      {
-        "provider": "Natsu",
-        "source": "Natsu",
-        "sourceBadge": "N",
-        "title": "Spare Me, Great Lord!",
-        "detailUrl": "https://natsu.one/manga/spare-me-great-lord/",
-        "image": "https://via.placeholder.com/200x300?text=Spare%20Me%2C%20Great%20Lord!",
-        "chapter": "Chapter terbaru",
-        "genre": "",
-        "updateTime": "",
-        "updateBucket": ""
-      },
       {
         "provider": "Natsu",
         "source": "Natsu",
@@ -900,17 +912,16 @@
         "updateBucket": ""
       }
     ],
-    "duplicateCount": 3,
+    "duplicateCount": 1,
     "providers": [
       "Komiku",
-      "Wurmz",
       "Natsu"
     ],
     "latestChapter": "Chapter 762",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/spare-me-great-lord/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/spare-me-great-lord/manga_img_horizontal-Komik-Spare-Me-Great-Lord.jpg?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "8 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 762",
@@ -946,16 +957,6 @@
     },
     "mirrorHealth": [
       {
-        "provider": "Wurmz",
-        "score": 63,
-        "status": "degraded"
-      },
-      {
-        "provider": "Natsu",
-        "score": 63,
-        "status": "degraded"
-      },
-      {
         "provider": "Natsu",
         "score": 63,
         "status": "degraded"
@@ -969,9 +970,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
-    "mergeProviderCount": 3,
-    "mirrorCount": 3,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -981,7 +982,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/16/20260816172639_36c67eda88fca69a_334b2b45.jpg?resize=240,150",
     "chapter": "Chapter 14",
     "genre": "Martial Arts",
-    "updateTime": "7 jam lalu",
+    "updateTime": "9 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/my-dad-is-the-strongest-under-heaven/",
     "source": "Komiku",
@@ -997,7 +998,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/my-dad-is-the-strongest-under-heaven/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/16/20260816172639_36c67eda88fca69a_334b2b45.jpg?resize=240,150",
-    "latestUpdateTime": "7 jam lalu",
+    "latestUpdateTime": "9 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 14",
@@ -1040,7 +1041,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -1052,7 +1053,7 @@
     "image": "https://thumbnail.komiku.to/img/upload/my_bias_gets_on_the_last_train/img_68318f4a5c9a74.67166038.jpg?resize=240,150",
     "chapter": "Chapter 91",
     "genre": "Romantis",
-    "updateTime": "9 jam lalu",
+    "updateTime": "10 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/my-bias-gets-on-the-last-train/",
     "source": "Komiku",
@@ -1082,7 +1083,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/my-bias-gets-on-the-last-train/",
     "latestImage": "https://thumbnail.komiku.to/img/upload/my_bias_gets_on_the_last_train/img_68318f4a5c9a74.67166038.jpg?resize=240,150",
-    "latestUpdateTime": "9 jam lalu",
+    "latestUpdateTime": "10 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 91",
@@ -1131,7 +1132,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -1143,7 +1144,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/07/21/20260721173207_05fc405eaa746adb_d105c148.jpg?resize=240,150",
     "chapter": "Chapter 22",
     "genre": "Romantis",
-    "updateTime": "9 jam lalu",
+    "updateTime": "10 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/im-a-contract-stepmother-but-the-tyrant-is-way-too-overprotective/",
     "source": "Komiku",
@@ -1173,7 +1174,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/im-a-contract-stepmother-but-the-tyrant-is-way-too-overprotective/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/07/21/20260721173207_05fc405eaa746adb_d105c148.jpg?resize=240,150",
-    "latestUpdateTime": "9 jam lalu",
+    "latestUpdateTime": "10 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 22",
@@ -1222,7 +1223,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -1234,7 +1235,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/a-dragonslayers-peerless-regression/manga_img_horizontal-A1-A-Dragonslayers-Peerless-Regression.jpg?resize=240,150",
     "chapter": "Chapter 98",
     "genre": "Fantasi",
-    "updateTime": "9 jam lalu",
+    "updateTime": "10 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/a-dragonslayers-peerless-regression/",
     "source": "Komiku",
@@ -1264,7 +1265,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/a-dragonslayers-peerless-regression/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/a-dragonslayers-peerless-regression/manga_img_horizontal-A1-A-Dragonslayers-Peerless-Regression.jpg?resize=240,150",
-    "latestUpdateTime": "9 jam lalu",
+    "latestUpdateTime": "10 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 98",
@@ -1313,7 +1314,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -1325,7 +1326,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/13/20260813002444_a6551ae23aa454db_dfbbdc9a.jpg?resize=240,150",
     "chapter": "Chapter 15",
     "genre": "Isekai",
-    "updateTime": "9 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/though-im-a-homebody-i-found-myself-in-a-dark-captive-genre/",
     "source": "Komiku",
@@ -1341,7 +1342,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/though-im-a-homebody-i-found-myself-in-a-dark-captive-genre/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/13/20260813002444_a6551ae23aa454db_dfbbdc9a.jpg?resize=240,150",
-    "latestUpdateTime": "9 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 15",
@@ -1384,7 +1385,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -1396,7 +1397,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/sekai-saikyou-no-shitsuji/manga_img_horizontal-Komik-Sekai-Saikyou-no-Shitsuji.jpg?resize=240,150",
     "chapter": "Chapter 23",
     "genre": "Fantasi",
-    "updateTime": "9 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/sekai-saikyou-no-shitsuji/",
     "source": "Komiku",
@@ -1412,7 +1413,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/sekai-saikyou-no-shitsuji/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/sekai-saikyou-no-shitsuji/manga_img_horizontal-Komik-Sekai-Saikyou-no-Shitsuji.jpg?resize=240,150",
-    "latestUpdateTime": "9 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 23",
@@ -1455,7 +1456,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -1467,7 +1468,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/king-account-at-the-start/manga_img_horizontal-Komik-King-Account-At-The-Start.jpg?resize=240,150",
     "chapter": "Chapter 279",
     "genre": "Fantasi",
-    "updateTime": "9 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/king-account-at-the-start/",
     "source": "Komiku",
@@ -1497,7 +1498,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/king-account-at-the-start/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/king-account-at-the-start/manga_img_horizontal-Komik-King-Account-At-The-Start.jpg?resize=240,150",
-    "latestUpdateTime": "9 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 279",
@@ -1546,7 +1547,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -1558,23 +1559,37 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/06/30/20260630142326_02ba8958ccfbcce2_857c4130.png?resize=240,150",
     "chapter": "Chapter 7",
     "genre": "Isekai",
-    "updateTime": "9 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaisugite-tomadotteru/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaisugite-tomadotteru",
     "primaryProvider": "Komiku",
-    "mirrors": [],
-    "duplicateCount": 0,
+    "mirrors": [
+      {
+        "provider": "Wurmz",
+        "source": "Wurmz",
+        "sourceBadge": "W",
+        "title": "Yami Kakusei Shite Shujinkou ni Bokosareru Kamaseinu ni Hyoui Shita ga Gensaku to Chigaisugite Tomadotteru",
+        "detailUrl": "https://wurmz.net/detail/manga/aku-bereinkarnasi-sebagai-bangsawan-jahat-yang-ditakdirkan-kalah-tapi-malah-terobsesi-dengan-sihir",
+        "image": "https://via.placeholder.com/200x300?text=Yami%20Kakusei%20Shite%20Shuji",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      }
+    ],
+    "duplicateCount": 1,
     "providers": [
-      "Komiku"
+      "Komiku",
+      "Wurmz"
     ],
     "latestChapter": "Chapter 7",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaisugite-tomadotteru/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/06/30/20260630142326_02ba8958ccfbcce2_857c4130.png?resize=240,150",
-    "latestUpdateTime": "9 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 7",
@@ -1608,7 +1623,13 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [],
+    "mirrorHealth": [
+      {
+        "provider": "Wurmz",
+        "score": 63,
+        "status": "degraded"
+      }
+    ],
     "freshness": {
       "primaryChapter": "Chapter 7",
       "latestChapter": "Chapter 7",
@@ -1617,9 +1638,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
-    "mergeProviderCount": 1,
-    "mirrorCount": 0,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -1629,7 +1650,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/player-who-returned-10000-years-later/manga_img_horizontal-PWRPanjang.png?resize=240,150",
     "chapter": "Chapter 156",
     "genre": "Fantasi",
-    "updateTime": "10 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/player-who-returned-10000-years-later/",
     "source": "Komiku",
@@ -1659,7 +1680,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/player-who-returned-10000-years-later/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/player-who-returned-10000-years-later/manga_img_horizontal-PWRPanjang.png?resize=240,150",
-    "latestUpdateTime": "10 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 156",
@@ -1708,7 +1729,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -1720,37 +1741,23 @@
     "image": "https://thumbnail.komiku.to/img/upload/my_sister_is_the_main_character/img_683168ad4cb805.42773005.jpg?resize=240,150",
     "chapter": "Chapter 31",
     "genre": "Romantis",
-    "updateTime": "10 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/my-sister-is-the-main-character/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "my-sister-is-main-character",
     "primaryProvider": "Komiku",
-    "mirrors": [
-      {
-        "provider": "Natsu",
-        "source": "Natsu",
-        "sourceBadge": "N",
-        "title": "My Sister Is the Main Character",
-        "detailUrl": "https://natsu.one/manga/my-sister-is-the-main-character/",
-        "image": "https://via.placeholder.com/200x300?text=My%20Sister%20Is%20the%20Main%20Ch",
-        "chapter": "Chapter terbaru",
-        "genre": "",
-        "updateTime": "",
-        "updateBucket": ""
-      }
-    ],
-    "duplicateCount": 1,
+    "mirrors": [],
+    "duplicateCount": 0,
     "providers": [
-      "Komiku",
-      "Natsu"
+      "Komiku"
     ],
     "latestChapter": "Chapter 31",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/my-sister-is-the-main-character/",
     "latestImage": "https://thumbnail.komiku.to/img/upload/my_sister_is_the_main_character/img_683168ad4cb805.42773005.jpg?resize=240,150",
-    "latestUpdateTime": "10 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 31",
@@ -1784,13 +1791,7 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [
-      {
-        "provider": "Natsu",
-        "score": 63,
-        "status": "degraded"
-      }
-    ],
+    "mirrorHealth": [],
     "freshness": {
       "primaryChapter": "Chapter 31",
       "latestChapter": "Chapter 31",
@@ -1799,9 +1800,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.251Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 1,
+    "mirrorCount": 0,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -1811,37 +1812,23 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/06/27/20260627004443_b73dba55d4b2459b_d8583509.png?resize=240,150",
     "chapter": "Chapter 51",
     "genre": "Shoujo",
-    "updateTime": "10 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/the-beloved-incompetent-stepmom/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "beloved-incompetent-stepmom",
     "primaryProvider": "Komiku",
-    "mirrors": [
-      {
-        "provider": "Natsu",
-        "source": "Natsu",
-        "sourceBadge": "N",
-        "title": "The Beloved Incompetent Stepmom",
-        "detailUrl": "https://natsu.one/manga/the-beloved-incompetent-stepmom/",
-        "image": "https://via.placeholder.com/200x300?text=The%20Beloved%20Incompetent%20",
-        "chapter": "Chapter terbaru",
-        "genre": "",
-        "updateTime": "",
-        "updateBucket": ""
-      }
-    ],
-    "duplicateCount": 1,
+    "mirrors": [],
+    "duplicateCount": 0,
     "providers": [
-      "Komiku",
-      "Natsu"
+      "Komiku"
     ],
     "latestChapter": "Chapter 51",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/the-beloved-incompetent-stepmom/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/06/27/20260627004443_b73dba55d4b2459b_d8583509.png?resize=240,150",
-    "latestUpdateTime": "10 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 51",
@@ -1875,13 +1862,7 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [
-      {
-        "provider": "Natsu",
-        "score": 63,
-        "status": "degraded"
-      }
-    ],
+    "mirrorHealth": [],
     "freshness": {
       "primaryChapter": "Chapter 51",
       "latestChapter": "Chapter 51",
@@ -1890,9 +1871,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 1,
+    "mirrorCount": 0,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -1902,7 +1883,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/revenge-of-the-iron-blooded-sword-hound/manga_img_horizontal-Back-Revenge-of-the-Iron-Blooded-Sword-Hound.jpg?resize=240,150",
     "chapter": "Chapter 176",
     "genre": "Aksi",
-    "updateTime": "10 jam lalu",
+    "updateTime": "11 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/revenge-of-the-iron-blooded-sword-hound/",
     "source": "Komiku",
@@ -1932,7 +1913,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/revenge-of-the-iron-blooded-sword-hound/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/revenge-of-the-iron-blooded-sword-hound/manga_img_horizontal-Back-Revenge-of-the-Iron-Blooded-Sword-Hound.jpg?resize=240,150",
-    "latestUpdateTime": "10 jam lalu",
+    "latestUpdateTime": "11 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 176",
@@ -1981,7 +1962,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -1993,37 +1974,23 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/07/07/20260707151637_30d53868d211cb38_86705c71.jpg?resize=240,150",
     "chapter": "Chapter 21",
     "genre": "Supernatural",
-    "updateTime": "10 jam lalu",
+    "updateTime": "12 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/i-ended-up-raising-my-younger-self/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "i-ended-up-raising-my-younger-self",
     "primaryProvider": "Komiku",
-    "mirrors": [
-      {
-        "provider": "Natsu",
-        "source": "Natsu",
-        "sourceBadge": "N",
-        "title": "I Ended Up Raising My Younger Self",
-        "detailUrl": "https://natsu.one/manga/i-ended-up-raising-my-younger-self/",
-        "image": "https://via.placeholder.com/200x300?text=I%20Ended%20Up%20Raising%20My%20Yo",
-        "chapter": "Chapter terbaru",
-        "genre": "",
-        "updateTime": "",
-        "updateBucket": ""
-      }
-    ],
-    "duplicateCount": 1,
+    "mirrors": [],
+    "duplicateCount": 0,
     "providers": [
-      "Komiku",
-      "Natsu"
+      "Komiku"
     ],
     "latestChapter": "Chapter 21",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/i-ended-up-raising-my-younger-self/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/07/07/20260707151637_30d53868d211cb38_86705c71.jpg?resize=240,150",
-    "latestUpdateTime": "10 jam lalu",
+    "latestUpdateTime": "12 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 21",
@@ -2057,13 +2024,7 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [
-      {
-        "provider": "Natsu",
-        "score": 63,
-        "status": "degraded"
-      }
-    ],
+    "mirrorHealth": [],
     "freshness": {
       "primaryChapter": "Chapter 21",
       "latestChapter": "Chapter 21",
@@ -2072,9 +2033,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 1,
+    "mirrorCount": 0,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -2084,7 +2045,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/07/05/20260705182010_576504a8d91409f9_813a1404.webp?resize=240,150",
     "chapter": "Chapter 38",
     "genre": "Isekai",
-    "updateTime": "11 jam lalu",
+    "updateTime": "12 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/adopting-the-male-protagonist-changed-the-genre/",
     "source": "Komiku",
@@ -2100,7 +2061,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/adopting-the-male-protagonist-changed-the-genre/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/07/05/20260705182010_576504a8d91409f9_813a1404.webp?resize=240,150",
-    "latestUpdateTime": "11 jam lalu",
+    "latestUpdateTime": "12 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 38",
@@ -2143,7 +2104,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -2155,7 +2116,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/06/29/20260629073650_06b5c03c371b57e0_d2ac737f.jpg?resize=240,150",
     "chapter": "Chapter 54",
     "genre": "Drama",
-    "updateTime": "11 jam lalu",
+    "updateTime": "13 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/shes-not-our-daughter/",
     "source": "Komiku",
@@ -2171,7 +2132,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/shes-not-our-daughter/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/06/29/20260629073650_06b5c03c371b57e0_d2ac737f.jpg?resize=240,150",
-    "latestUpdateTime": "11 jam lalu",
+    "latestUpdateTime": "13 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 54",
@@ -2214,7 +2175,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -2226,37 +2187,23 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/manga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png?resize=240,150",
     "chapter": "Chapter 197",
     "genre": "Fantasi",
-    "updateTime": "12 jam lalu",
+    "updateTime": "13 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru",
     "primaryProvider": "Komiku",
-    "mirrors": [
-      {
-        "provider": "Natsu",
-        "source": "Natsu",
-        "sourceBadge": "N",
-        "title": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou Suru!",
-        "detailUrl": "https://natsu.one/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/",
-        "image": "https://via.placeholder.com/200x300?text=Drawing%3A%20Saikyou%20Mangaka",
-        "chapter": "Chapter terbaru",
-        "genre": "",
-        "updateTime": "",
-        "updateBucket": ""
-      }
-    ],
-    "duplicateCount": 1,
+    "mirrors": [],
+    "duplicateCount": 0,
     "providers": [
-      "Komiku",
-      "Natsu"
+      "Komiku"
     ],
     "latestChapter": "Chapter 197",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/manga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png?resize=240,150",
-    "latestUpdateTime": "12 jam lalu",
+    "latestUpdateTime": "13 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 197",
@@ -2290,13 +2237,7 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [
-      {
-        "provider": "Natsu",
-        "score": 63,
-        "status": "degraded"
-      }
-    ],
+    "mirrorHealth": [],
     "freshness": {
       "primaryChapter": "Chapter 197",
       "latestChapter": "Chapter 197",
@@ -2305,9 +2246,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 1,
+    "mirrorCount": 0,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -2317,7 +2258,7 @@
     "image": "https://thumbnail.komiku.to/img/upload/saibai_cheat_de_saikyou_saien/img_685d7174d2c120.48208759.jpg?resize=240,150",
     "chapter": "Chapter 32",
     "genre": "Fantasi",
-    "updateTime": "12 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/saibai-cheat-de-saikyou-saien-e-tada-no-katei-saiendesu-kedo/",
     "source": "Komiku",
@@ -2333,7 +2274,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/saibai-cheat-de-saikyou-saien-e-tada-no-katei-saiendesu-kedo/",
     "latestImage": "https://thumbnail.komiku.to/img/upload/saibai_cheat_de_saikyou_saien/img_685d7174d2c120.48208759.jpg?resize=240,150",
-    "latestUpdateTime": "12 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 32",
@@ -2376,7 +2317,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -2388,7 +2329,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/i-awoke-as-a-god-after-auto-battling-for-a-million-years-idle-player-returns-as-a-god/manga_img_horizontal-A1-I-Awoke-as-a-God-After-Auto-Battling-For-a-Million-Years.jpg?resize=240,150",
     "chapter": "Chapter 80",
     "genre": "Fantasi",
-    "updateTime": "13 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/i-awoke-as-a-god-after-auto-battling-for-a-million-years-idle-player-returns-as-a-god/",
     "source": "Komiku",
@@ -2404,7 +2345,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/i-awoke-as-a-god-after-auto-battling-for-a-million-years-idle-player-returns-as-a-god/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/i-awoke-as-a-god-after-auto-battling-for-a-million-years-idle-player-returns-as-a-god/manga_img_horizontal-A1-I-Awoke-as-a-God-After-Auto-Battling-For-a-Million-Years.jpg?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 80",
@@ -2447,7 +2388,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -2459,23 +2400,37 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/batsu-hare/manga_img_horizontal-Komik-Batsu-Hare.jpg?resize=240,150",
     "chapter": "Chapter 204",
     "genre": "Romantis",
-    "updateTime": "13 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/batsu-hare/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "batsu-harem",
     "primaryProvider": "Komiku",
-    "mirrors": [],
-    "duplicateCount": 0,
+    "mirrors": [
+      {
+        "provider": "Wurmz",
+        "source": "Wurmz",
+        "sourceBadge": "W",
+        "title": "Batsu Harem",
+        "detailUrl": "https://wurmz.net/detail/manga/perapian",
+        "image": "https://via.placeholder.com/200x300?text=Batsu%20Harem",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      }
+    ],
+    "duplicateCount": 1,
     "providers": [
-      "Komiku"
+      "Komiku",
+      "Wurmz"
     ],
     "latestChapter": "Chapter 204",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/batsu-hare/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/batsu-hare/manga_img_horizontal-Komik-Batsu-Hare.jpg?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 204",
@@ -2509,7 +2464,13 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [],
+    "mirrorHealth": [
+      {
+        "provider": "Wurmz",
+        "score": 63,
+        "status": "degraded"
+      }
+    ],
     "freshness": {
       "primaryChapter": "Chapter 204",
       "latestChapter": "Chapter 204",
@@ -2518,9 +2479,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 1,
-    "mirrorCount": 0,
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -2530,7 +2491,7 @@
     "image": "https://thumbnail.komiku.to/img/upload/global_superpowers__awakening_the_zixiao/img_687e00a5b014a1.26432117.jpg?resize=240,150",
     "chapter": "Chapter 84",
     "genre": "Fantasi",
-    "updateTime": "13 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning/",
     "source": "Komiku",
@@ -2546,7 +2507,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning/",
     "latestImage": "https://thumbnail.komiku.to/img/upload/global_superpowers__awakening_the_zixiao/img_687e00a5b014a1.26432117.jpg?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 84",
@@ -2589,7 +2550,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -2601,7 +2562,7 @@
     "image": "https://thumbnail.komiku.to/img/upload/the_corporate_underdog_who_does_everything_right/img_68333bfd9c3413.19447142.jpg?resize=240,150",
     "chapter": "Chapter 75",
     "genre": "Drama",
-    "updateTime": "13 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/the-corporate-underdog-who-does-everything-right/",
     "source": "Komiku",
@@ -2617,7 +2578,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/the-corporate-underdog-who-does-everything-right/",
     "latestImage": "https://thumbnail.komiku.to/img/upload/the_corporate_underdog_who_does_everything_right/img_68333bfd9c3413.19447142.jpg?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 75",
@@ -2660,7 +2621,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.207Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -2672,23 +2633,37 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/mayonaka-heart-tune/manga_img_horizontal-Back-Mayonaka-Heart-Tune.jpg?resize=240,150",
     "chapter": "Chapter 125",
     "genre": "Romantis",
-    "updateTime": "13 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/mayonaka-heart-tune/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "mayonaka-heart-tune",
     "primaryProvider": "Komiku",
-    "mirrors": [],
-    "duplicateCount": 0,
+    "mirrors": [
+      {
+        "provider": "Wurmz",
+        "source": "Wurmz",
+        "sourceBadge": "W",
+        "title": "Mayonaka Heart Tune",
+        "detailUrl": "https://wurmz.net/detail/manga/dengarkan-jantung-tengah-malam",
+        "image": "https://via.placeholder.com/200x300?text=Mayonaka%20Heart%20Tune",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      }
+    ],
+    "duplicateCount": 1,
     "providers": [
-      "Komiku"
+      "Komiku",
+      "Wurmz"
     ],
     "latestChapter": "Chapter 125",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/mayonaka-heart-tune/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/mayonaka-heart-tune/manga_img_horizontal-Back-Mayonaka-Heart-Tune.jpg?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 125",
@@ -2722,7 +2697,13 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [],
+    "mirrorHealth": [
+      {
+        "provider": "Wurmz",
+        "score": 63,
+        "status": "degraded"
+      }
+    ],
     "freshness": {
       "primaryChapter": "Chapter 125",
       "latestChapter": "Chapter 125",
@@ -2731,9 +2712,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 1,
-    "mirrorCount": 0,
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -2743,23 +2724,37 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/watashi-yori-tsuyoi-otoko-to-kekkon-shitaino/manga_img_horizontal-Watashi-Yori-Tsuyoi-Panjang.png?resize=240,150",
     "chapter": "Chapter 26",
     "genre": "Romantis",
-    "updateTime": "13 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/watashi-yori-tsuyoi-otoko-to-kekkon-shitaino/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "watashi-yori-tsuyoi-otoko-to-kekkon-shitaino",
     "primaryProvider": "Komiku",
-    "mirrors": [],
-    "duplicateCount": 0,
+    "mirrors": [
+      {
+        "provider": "Wurmz",
+        "source": "Wurmz",
+        "sourceBadge": "W",
+        "title": "Watashi Yori Tsuyoi Otoko to Kekkon Shitaino",
+        "detailUrl": "https://wurmz.net/detail/manga/saya-ingin-menikahi-pria-yang-lebih-kuat-dari-saya",
+        "image": "https://via.placeholder.com/200x300?text=Watashi%20Yori%20Tsuyoi%20Otok",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      }
+    ],
+    "duplicateCount": 1,
     "providers": [
-      "Komiku"
+      "Komiku",
+      "Wurmz"
     ],
     "latestChapter": "Chapter 26",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/watashi-yori-tsuyoi-otoko-to-kekkon-shitaino/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/watashi-yori-tsuyoi-otoko-to-kekkon-shitaino/manga_img_horizontal-Watashi-Yori-Tsuyoi-Panjang.png?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 26",
@@ -2793,7 +2788,13 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [],
+    "mirrorHealth": [
+      {
+        "provider": "Wurmz",
+        "score": 63,
+        "status": "degraded"
+      }
+    ],
     "freshness": {
       "primaryChapter": "Chapter 26",
       "latestChapter": "Chapter 26",
@@ -2802,9 +2803,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 1,
-    "mirrorCount": 0,
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -2814,7 +2815,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/07/04/20260704225349_f638eb3ffb4743d2_27687dd9.jpg?resize=240,150",
     "chapter": "Chapter 74",
     "genre": "Slice of Life",
-    "updateTime": "13 jam lalu",
+    "updateTime": "14 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/arelyn-is-sick-and-tired/",
     "source": "Komiku",
@@ -2830,7 +2831,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/arelyn-is-sick-and-tired/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/07/04/20260704225349_f638eb3ffb4743d2_27687dd9.jpg?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "14 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 74",
@@ -2873,7 +2874,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -2885,23 +2886,37 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/the-constellations-are-my-disciples/manga_img_horizontal-The-Constellations-Are-My-Disciples-2.png?resize=240,150",
     "chapter": "Chapter 150",
     "genre": "Aksi",
-    "updateTime": "13 jam lalu",
+    "updateTime": "15 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/the-constellations-are-my-disciples/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "constellations-are-my-disciples",
     "primaryProvider": "Komiku",
-    "mirrors": [],
-    "duplicateCount": 0,
+    "mirrors": [
+      {
+        "provider": "Wurmz",
+        "source": "Wurmz",
+        "sourceBadge": "W",
+        "title": "The Constellations Are My Disciples",
+        "detailUrl": "https://wurmz.net/detail/manhwa/rasi-bintang-adalah-murid-saya",
+        "image": "https://via.placeholder.com/200x300?text=The%20Constellations%20Are%20M",
+        "chapter": "Chapter terbaru",
+        "genre": "",
+        "updateTime": "",
+        "updateBucket": ""
+      }
+    ],
+    "duplicateCount": 1,
     "providers": [
-      "Komiku"
+      "Komiku",
+      "Wurmz"
     ],
     "latestChapter": "Chapter 150",
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/the-constellations-are-my-disciples/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/the-constellations-are-my-disciples/manga_img_horizontal-The-Constellations-Are-My-Disciples-2.png?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "15 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 150",
@@ -2935,7 +2950,13 @@
       "protected": true,
       "manualDisabled": false
     },
-    "mirrorHealth": [],
+    "mirrorHealth": [
+      {
+        "provider": "Wurmz",
+        "score": 63,
+        "status": "degraded"
+      }
+    ],
     "freshness": {
       "primaryChapter": "Chapter 150",
       "latestChapter": "Chapter 150",
@@ -2944,9 +2965,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 1,
-    "mirrorCount": 0,
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -2956,7 +2977,7 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/absolute-dominion/manga_img_horizontal-A1-Absolute-Dominion.png?resize=240,150",
     "chapter": "Chapter 105",
     "genre": "Martial Arts",
-    "updateTime": "13 jam lalu",
+    "updateTime": "15 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/absolute-dominion/",
     "source": "Komiku",
@@ -2972,7 +2993,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/absolute-dominion/",
     "latestImage": "https://thumbnail.komiku.to/uploads/manga/absolute-dominion/manga_img_horizontal-A1-Absolute-Dominion.png?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "15 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 105",
@@ -3015,7 +3036,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3027,7 +3048,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/06/05/20260605110243_c17f1a333b9f4db1_3d15c534.jpg?resize=240,150",
     "chapter": "Chapter 22",
     "genre": "Komedi",
-    "updateTime": "13 jam lalu",
+    "updateTime": "15 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/nee-chan-no-tomodachi-ga-uzai-hanashi/",
     "source": "Komiku",
@@ -3043,7 +3064,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/nee-chan-no-tomodachi-ga-uzai-hanashi/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/06/05/20260605110243_c17f1a333b9f4db1_3d15c534.jpg?resize=240,150",
-    "latestUpdateTime": "13 jam lalu",
+    "latestUpdateTime": "15 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
     "displayChapter": "Chapter 22",
@@ -3086,7 +3107,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3098,21 +3119,92 @@
     "image": "https://thumbnail.komiku.to/uploads/manga/risou-no-himo-seikatsu/manga_img_horizontal-Manga--Risou-no-Himo-Seikatsu.jpg?resize=240,150",
     "chapter": "Chapter 98",
     "genre": "Isekai",
-    "updateTime": "14 jam lalu",
+    "updateTime": "15 jam lalu",
     "updateBucket": "Hari ini",
     "detailUrl": "https://komiku.org/manga/risou-no-himo-seikatsu/",
     "source": "Komiku",
     "sourceBadge": "K",
     "canonicalId": "risou-no-himo-seikatsu",
     "primaryProvider": "Komiku",
+    "mirrors": [],
+    "duplicateCount": 0,
+    "providers": [
+      "Komiku"
+    ],
+    "latestChapter": "Chapter 98",
+    "latestProvider": "Komiku",
+    "latestDetailUrl": "https://komiku.org/manga/risou-no-himo-seikatsu/",
+    "latestImage": "https://thumbnail.komiku.to/uploads/manga/risou-no-himo-seikatsu/manga_img_horizontal-Manga--Risou-no-Himo-Seikatsu.jpg?resize=240,150",
+    "latestUpdateTime": "15 jam lalu",
+    "latestUpdateBucket": "Hari ini",
+    "latestIsMirror": false,
+    "displayChapter": "Chapter 98",
+    "displayProvider": "Komiku",
+    "primaryProviderHealth": {
+      "id": "komiku",
+      "name": "Komiku",
+      "success": 0,
+      "fail": 0,
+      "totalMs": 0,
+      "consecutiveFail": 0,
+      "lastOk": 0,
+      "lastError": "",
+      "lastChecked": 0,
+      "disabledUntil": 0,
+      "disabledReason": "",
+      "reasons": {},
+      "total": 0,
+      "successRate": 0.75,
+      "failureRate": 0,
+      "avgMs": 0,
+      "score": 63,
+      "status": "degraded",
+      "skip": {
+        "skip": false,
+        "reason": "protected",
+        "disabledUntil": 0,
+        "remainingMs": 0
+      },
+      "persistent": true,
+      "protected": true,
+      "manualDisabled": false
+    },
+    "mirrorHealth": [],
+    "freshness": {
+      "primaryChapter": "Chapter 98",
+      "latestChapter": "Chapter 98",
+      "primaryProvider": "Komiku",
+      "latestProvider": "Komiku",
+      "latestIsMirror": false,
+      "chapterIsNewer": false
+    },
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
+    "mergeProviderCount": 1,
+    "mirrorCount": 0,
+    "hasFreshMirror": false,
+    "_mergeTotal": 60
+  },
+  {
+    "id": "komiku-reborn-little-girl-won-t-give-up-39",
+    "title": "The Reborn Little Girl Won't Give Up",
+    "image": "https://thumbnail.komiku.to/uploads/manga/the-reborn-little-girl-wont-give-up/manga_img_horizontal-Komik-The-Reborn-Little-Girl-Wont-Give-Up.png?resize=240,150",
+    "chapter": "Chapter 34",
+    "genre": "Fantasi",
+    "updateTime": "16 jam lalu",
+    "updateBucket": "Hari ini",
+    "detailUrl": "https://komiku.org/manga/the-reborn-little-girl-wont-give-up/",
+    "source": "Komiku",
+    "sourceBadge": "K",
+    "canonicalId": "reborn-little-girl-won-t-give-up",
+    "primaryProvider": "Komiku",
     "mirrors": [
       {
         "provider": "Wurmz",
         "source": "Wurmz",
         "sourceBadge": "W",
-        "title": "Risou no Himo Seikatsu",
-        "detailUrl": "https://wurmz.net/detail/manga/kehidupan-malas-yang-ideal",
-        "image": "https://via.placeholder.com/200x300?text=Risou%20no%20Himo%20Seikatsu",
+        "title": "The Reborn Little Girl Won't Give Up",
+        "detailUrl": "https://wurmz.net/detail/manga/gadis-kecil-reinkarnasi-tidak-pernah-menyerah",
+        "image": "https://via.placeholder.com/200x300?text=The%20Reborn%20Little%20Girl%20W",
         "chapter": "Chapter terbaru",
         "genre": "",
         "updateTime": "",
@@ -3124,14 +3216,14 @@
       "Komiku",
       "Wurmz"
     ],
-    "latestChapter": "Chapter 98",
+    "latestChapter": "Chapter 34",
     "latestProvider": "Komiku",
-    "latestDetailUrl": "https://komiku.org/manga/risou-no-himo-seikatsu/",
-    "latestImage": "https://thumbnail.komiku.to/uploads/manga/risou-no-himo-seikatsu/manga_img_horizontal-Manga--Risou-no-Himo-Seikatsu.jpg?resize=240,150",
-    "latestUpdateTime": "14 jam lalu",
+    "latestDetailUrl": "https://komiku.org/manga/the-reborn-little-girl-wont-give-up/",
+    "latestImage": "https://thumbnail.komiku.to/uploads/manga/the-reborn-little-girl-wont-give-up/manga_img_horizontal-Komik-The-Reborn-Little-Girl-Wont-Give-Up.png?resize=240,150",
+    "latestUpdateTime": "16 jam lalu",
     "latestUpdateBucket": "Hari ini",
     "latestIsMirror": false,
-    "displayChapter": "Chapter 98",
+    "displayChapter": "Chapter 34",
     "displayProvider": "Komiku",
     "primaryProviderHealth": {
       "id": "komiku",
@@ -3170,77 +3262,6 @@
       }
     ],
     "freshness": {
-      "primaryChapter": "Chapter 98",
-      "latestChapter": "Chapter 98",
-      "primaryProvider": "Komiku",
-      "latestProvider": "Komiku",
-      "latestIsMirror": false,
-      "chapterIsNewer": false
-    },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 2,
-    "mirrorCount": 1,
-    "hasFreshMirror": false,
-    "_mergeTotal": 60
-  },
-  {
-    "id": "komiku-reborn-little-girl-won-t-give-up-39",
-    "title": "The Reborn Little Girl Won't Give Up",
-    "image": "https://thumbnail.komiku.to/uploads/manga/the-reborn-little-girl-wont-give-up/manga_img_horizontal-Komik-The-Reborn-Little-Girl-Wont-Give-Up.png?resize=240,150",
-    "chapter": "Chapter 34",
-    "genre": "Fantasi",
-    "updateTime": "14 jam lalu",
-    "updateBucket": "Hari ini",
-    "detailUrl": "https://komiku.org/manga/the-reborn-little-girl-wont-give-up/",
-    "source": "Komiku",
-    "sourceBadge": "K",
-    "canonicalId": "reborn-little-girl-won-t-give-up",
-    "primaryProvider": "Komiku",
-    "mirrors": [],
-    "duplicateCount": 0,
-    "providers": [
-      "Komiku"
-    ],
-    "latestChapter": "Chapter 34",
-    "latestProvider": "Komiku",
-    "latestDetailUrl": "https://komiku.org/manga/the-reborn-little-girl-wont-give-up/",
-    "latestImage": "https://thumbnail.komiku.to/uploads/manga/the-reborn-little-girl-wont-give-up/manga_img_horizontal-Komik-The-Reborn-Little-Girl-Wont-Give-Up.png?resize=240,150",
-    "latestUpdateTime": "14 jam lalu",
-    "latestUpdateBucket": "Hari ini",
-    "latestIsMirror": false,
-    "displayChapter": "Chapter 34",
-    "displayProvider": "Komiku",
-    "primaryProviderHealth": {
-      "id": "komiku",
-      "name": "Komiku",
-      "success": 0,
-      "fail": 0,
-      "totalMs": 0,
-      "consecutiveFail": 0,
-      "lastOk": 0,
-      "lastError": "",
-      "lastChecked": 0,
-      "disabledUntil": 0,
-      "disabledReason": "",
-      "reasons": {},
-      "total": 0,
-      "successRate": 0.75,
-      "failureRate": 0,
-      "avgMs": 0,
-      "score": 63,
-      "status": "degraded",
-      "skip": {
-        "skip": false,
-        "reason": "protected",
-        "disabledUntil": 0,
-        "remainingMs": 0
-      },
-      "persistent": true,
-      "protected": true,
-      "manualDisabled": false
-    },
-    "mirrorHealth": [],
-    "freshness": {
       "primaryChapter": "Chapter 34",
       "latestChapter": "Chapter 34",
       "primaryProvider": "Komiku",
@@ -3248,9 +3269,9 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
-    "mergeProviderCount": 1,
-    "mirrorCount": 0,
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
+    "mergeProviderCount": 2,
+    "mirrorCount": 1,
     "hasFreshMirror": false,
     "_mergeTotal": 60
   },
@@ -3319,7 +3340,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3390,7 +3411,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3402,7 +3423,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/15/20260815023922_377418265003b51d_dd65931f.jpg?resize=240,150",
     "chapter": "Chapter 2.5",
     "genre": "Fantasi",
-    "updateTime": "274 views",
+    "updateTime": "277 views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/hakkou-shounen-no-shiawase-na-majutsu-kakumei/",
     "source": "Komiku",
@@ -3418,7 +3439,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/hakkou-shounen-no-shiawase-na-majutsu-kakumei/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/15/20260815023922_377418265003b51d_dd65931f.jpg?resize=240,150",
-    "latestUpdateTime": "274 views",
+    "latestUpdateTime": "277 views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 2.5",
@@ -3461,7 +3482,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3552,7 +3573,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -3643,7 +3664,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 2,
     "mirrorCount": 1,
     "hasFreshMirror": false,
@@ -3714,7 +3735,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3726,7 +3747,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/14/20260814133926_65d85e43bc29e5af_39c03e1e.jpg?resize=240,150",
     "chapter": "Chapter 4",
     "genre": "Fantasi",
-    "updateTime": "731 views",
+    "updateTime": "734 views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/i-the-outcast-hero-built-the-worlds-most-powerful-dungeon/",
     "source": "Komiku",
@@ -3742,7 +3763,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/i-the-outcast-hero-built-the-worlds-most-powerful-dungeon/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/14/20260814133926_65d85e43bc29e5af_39c03e1e.jpg?resize=240,150",
-    "latestUpdateTime": "731 views",
+    "latestUpdateTime": "734 views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 4",
@@ -3785,7 +3806,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3856,7 +3877,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3868,7 +3889,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/13/20260813002120_ff7e6076970fd152_b73d49db.webp?resize=240,150",
     "chapter": "Chapter 4",
     "genre": "Aksi",
-    "updateTime": "914 views",
+    "updateTime": "919 views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/kamen-rider-kuuga/",
     "source": "Komiku",
@@ -3884,7 +3905,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/kamen-rider-kuuga/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/13/20260813002120_ff7e6076970fd152_b73d49db.webp?resize=240,150",
-    "latestUpdateTime": "914 views",
+    "latestUpdateTime": "919 views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 4",
@@ -3927,7 +3948,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -3939,7 +3960,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/16/20260816173000_727b35104082b7ce_f0e2d0fd.jpg?resize=240,150",
     "chapter": "Chapter 242",
     "genre": "Aksi",
-    "updateTime": "125 views",
+    "updateTime": "135 views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/superhuman-era/",
     "source": "Komiku",
@@ -3955,7 +3976,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/superhuman-era/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/16/20260816173000_727b35104082b7ce_f0e2d0fd.jpg?resize=240,150",
-    "latestUpdateTime": "125 views",
+    "latestUpdateTime": "135 views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 242",
@@ -3998,7 +4019,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4069,7 +4090,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4081,7 +4102,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/15/20260815154636_03a8f4ed141e3576_b3fc87ac.jpg?resize=240,150",
     "chapter": "Chapter 19",
     "genre": "Fantasi",
-    "updateTime": "266 views",
+    "updateTime": "282 views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/the-nerd-next-door-turned-out-to-be-the-magic-tower-master/",
     "source": "Komiku",
@@ -4097,7 +4118,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/the-nerd-next-door-turned-out-to-be-the-magic-tower-master/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/15/20260815154636_03a8f4ed141e3576_b3fc87ac.jpg?resize=240,150",
-    "latestUpdateTime": "266 views",
+    "latestUpdateTime": "282 views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 19",
@@ -4140,7 +4161,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4152,7 +4173,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/13/20260813192932_f9729f99da96ab50_d0cbdfa5.webp?resize=240,150",
     "chapter": "Chapter 10",
     "genre": "Drama",
-    "updateTime": "642 views",
+    "updateTime": "645 views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/i-tried-to-debut-my-kid-but-ended-up-debuting-myself/",
     "source": "Komiku",
@@ -4168,7 +4189,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/i-tried-to-debut-my-kid-but-ended-up-debuting-myself/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/13/20260813192932_f9729f99da96ab50_d0cbdfa5.webp?resize=240,150",
-    "latestUpdateTime": "642 views",
+    "latestUpdateTime": "645 views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 10",
@@ -4211,7 +4232,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4282,7 +4303,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4294,7 +4315,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/12/20260812202206_39ac0e084ccc104c_cb1ab435.webp?resize=240,150",
     "chapter": "Chapter 4",
     "genre": "Romantis",
-    "updateTime": "212 views",
+    "updateTime": "215 views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/i-became-the-tutor-to-the-wolf-duke/",
     "source": "Komiku",
@@ -4310,7 +4331,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/i-became-the-tutor-to-the-wolf-duke/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/12/20260812202206_39ac0e084ccc104c_cb1ab435.webp?resize=240,150",
-    "latestUpdateTime": "212 views",
+    "latestUpdateTime": "215 views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 4",
@@ -4353,7 +4374,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4424,7 +4445,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4495,7 +4516,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4566,7 +4587,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4578,7 +4599,7 @@
     "image": "https://thumbnail.komiku.to/new/img/images/2026/08/05/20260805065856_55c8127ec4419abc_06085142.webp?resize=240,150",
     "chapter": "Chapter 44",
     "genre": "Romantis",
-    "updateTime": "15rb views",
+    "updateTime": "16rb views",
     "updateBucket": "Kemarin",
     "detailUrl": "https://komiku.org/manga/my-wife-is-a-heavenly-big-shot/",
     "source": "Komiku",
@@ -4594,7 +4615,7 @@
     "latestProvider": "Komiku",
     "latestDetailUrl": "https://komiku.org/manga/my-wife-is-a-heavenly-big-shot/",
     "latestImage": "https://thumbnail.komiku.to/new/img/images/2026/08/05/20260805065856_55c8127ec4419abc_06085142.webp?resize=240,150",
-    "latestUpdateTime": "15rb views",
+    "latestUpdateTime": "16rb views",
     "latestUpdateBucket": "Kemarin",
     "latestIsMirror": false,
     "displayChapter": "Chapter 44",
@@ -4637,7 +4658,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
@@ -4708,7 +4729,7 @@
       "latestIsMirror": false,
       "chapterIsNewer": false
     },
-    "scrapedAt": "2026-08-17T00:50:55.252Z",
+    "scrapedAt": "2026-08-17T02:16:31.208Z",
     "mergeProviderCount": 1,
     "mirrorCount": 0,
     "hasFreshMirror": false,
